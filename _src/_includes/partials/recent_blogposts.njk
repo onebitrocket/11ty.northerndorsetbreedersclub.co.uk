@@ -1,0 +1,26 @@
+{% set recentPosts = collections.blogposts | head(-3) %}
+<aside class="widget">
+  <div class="widget-title">
+    <h2>Recent Blog Posts</h2>
+  </div>
+  <div class="widget-desc">
+    {% for item in recentPosts | reverse %}
+    <div class="pod thumb-left">
+      <div class="pod-img">
+        <img src="{{ item.data.featured_img }}" alt="">
+      </div>
+      <div class="pod-body">
+        <div class="pod-title">
+          <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
+          <div class="pod-meta"><p><time datetime="{{ item.date | htmlDateString }}">{{ item.date | readableDate }}</time></p></div>
+        </div>
+        <div class="pod-desc"></div>
+        <div class="pod-footer"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="widget-footer">
+  </div>
+</aside>
+

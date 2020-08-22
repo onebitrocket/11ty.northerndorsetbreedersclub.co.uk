@@ -1,0 +1,6 @@
+{
+  "layout": "layouts/post",
+  "eleventyNavigation": {
+    "parent": "Blog"
+  }
+}

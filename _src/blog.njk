@@ -1,0 +1,41 @@
+---
+title: "Blog"
+desc: ""
+permalink: "/blog/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
+layout: "layouts/base"
+pagination:
+  data: collections.blogposts
+  size: 8
+  alias: posts
+  reverse: true
+tags:
+  - primaryNav
+eleventyNavigation:
+  key: "Blog"
+  order: 6
+---
+
+<h1>{{title }}</h1>
+{% for item in posts %}
+  <article class="article{% if item.data.featured_img %} thumb-left{% endif %}">
+    {% if item.data.featured_img %}
+      <div class="article-img">
+        <img src="{{ item.data.featured_img }}" alt="{{ item.data.title }}">
+      </div>
+    {% endif %}
+    <div class="article-body">
+      <div class="article-title">
+        <h3>{{ item.data.title }}</h3>
+        <div class="article-meta">
+          <p>Published on {{ item.data.date | readableDate }}</p>
+        </div>
+      </div>
+      <div class="article-desc"></div>
+      <div class="article-footer">
+        <a href="{{ item.data.page.url }}">Read more &raquo;</a>
+      </div>
+    </div>
+  </article>
+{% endfor %}
+
+{% include "partials/pagination_listing.njk" %}

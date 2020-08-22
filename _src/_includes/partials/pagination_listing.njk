@@ -1,0 +1,6 @@
+<nav aria-labelledby="pagination" class="pagination-nav">
+  <ul class="nav">
+    {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}">&laquo; Previous Page</a></li>{% endif %}
+    {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}">Next Page &raquo;</a></li>{% endif %}
+  </ul>
+</nav>

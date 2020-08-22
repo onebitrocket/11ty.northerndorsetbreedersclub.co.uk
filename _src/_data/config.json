@@ -1,0 +1,23 @@
+{
+  "title": "Northern Dorset Breeders Club",
+  "desc": "The only sheep breed that can and will, lamb naturally out of season",
+  "url": "https://northerndorsetbreedersclub.co.uk/",
+  "contact": {
+    "phone": "01946 725 207",
+    "email": "info@northerndorsetbreedersclub.co.uk",
+    "facebook": "https://www.facebook.com/northerndorsetbreeders",
+    "address": {
+      "name": "Northern Dorset Breeders Club",
+      "building" : "Higher Micklehurst Farm",
+      "street": "Manchester Road",
+      "city": "Burnley",
+      "county": "Lancashire",
+      "postcode": "BB11 5NS"
+    }
+  },
+  "feed": {
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://northerndorsetbreedersclub.co.uk/"
+  }
+}

@@ -1,0 +1,20 @@
+{% set nextEvent = collections.events | head(-1) %}
+<aside class="widget">
+  <div class="widget-title">
+    <h2>Upcoming Events</h2>
+  </div>
+  <div class="widget-desc">
+    {% for item in nextEvent | reverse %}
+    <div class="pod">
+      <div class="pod-title">
+        <h3>{{ item.data.title }}</h3>
+      </div>
+      <div class="pod-desc"></div>
+      <div class="pod-footer"></div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="widget-footer">
+    <p><a href="/events/">More events &raquo;</a></p>
+  </div>
+</aside>

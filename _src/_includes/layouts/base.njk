@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ desc or config.desc}}">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback' type='text/css' media='all' />
+</head>
+<body>
+<div class="wrapper">
+  {% include "partials/header.njk" %}
+  {% include "partials/navigation.njk" %}
+  {% if page.url == '/' %}
+  {% include "partials/home_banner.njk" %}
+  {% endif %}
+  <div id="main" class="content container">
+    <div id="primary" class="main">
+      <div class="section">
+
+        {{ content | safe }}
+
+        {% block post %}
+
+        {% endblock %}
+
+      </div>
+    </div>
+
+    <div id="secondary" class="sidebar">
+
+      {% if page.url == '/contact-us/' %}
+
+        {% include "partials/contact_sidebar.njk" %}
+
+      {% else %}
+
+        {% include "partials/recent_blogposts.njk" %}
+
+        {% include "partials/upcoming_events.njk" %}
+
+      {% endif %}
+
+    </div>
+  </div>
+  {% include "partials/footer.njk" %}
+</div>
+</body>
+</html>

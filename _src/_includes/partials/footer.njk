@@ -1,0 +1,9 @@
+<footer id="footer" class="container footer">
+  <ul class="footer-contact-area nav">
+    <li class="header-phone"><span class="hide">Get in touch: </span>{{ config.contact.phone }}</li>
+    <li class="header-email">
+    <span><a href="mailto:{{ config.contact.email }}">Email us</a></span></li>
+    <li class="header-facebook"><a href="{{ config.contact.facebook }}" target="_blank"><span class="facebookhide">Find us on </span>Facebook</a></li>
+  </ul>
+  &copy; {% currentYear %} <a href="/">{{ config.title }}</a> | <a href="/privacy-policy/"> privacy policy</a>
+</footer>

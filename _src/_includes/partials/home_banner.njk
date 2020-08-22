@@ -1,0 +1,19 @@
+{%set banner = collections.homeBanner | reverse %}
+<div class="container banner">
+  {% for item in banner %}
+    <div class="pod pod-img-bg">
+      <div class="pod-img">
+        <img src="{{ item.data.featured_img }}" alt="">
+      </div>
+            <div class="pod-body">
+
+      <div class="pod-title">
+        <h3>{{ item.data.title }}</h3>
+      </div>
+      <div class="pod-desc">{{ item.data.desc }}</div>
+      <div class="pod-footer"></div>
+
+    </div>
+    </div>
+  {% endfor %}
+</div>

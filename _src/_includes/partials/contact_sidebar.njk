@@ -1,0 +1,20 @@
+{% set address = config.contact.address %}
+<aside class="widget">
+  <div class="widget-title">
+    <h2>Write to us</h2>
+  </div>
+  <div class="widget-desc">
+    <div class="pod ">
+      <div class="pod-body">
+        <div class="pod-title">
+          <h3>{{ address.name }}</h3>
+          <p>{{ address.building }},<br>{{ address.street }},<br> {{ address.city }},<br> {{ address.county }},<br> {{ address.postcode }}</p>
+        </div>
+        <div class="pod-footer"></div>
+      </div>
+    </div>
+  </div>
+  <div class="widget-footer">
+  </div>
+</aside>
+
