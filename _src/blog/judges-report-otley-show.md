@@ -4,12 +4,14 @@ date: 2015-05-24 10:19:43
 modified: 2015-05-24 10:19:43
 permalink: blog/judges-report-otley-show/
 tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE &amp; SM Gray", "NDBC", "Otley Show", "Report", "Wharfedale Cup"]
-featured_img: /uploads/2015/05/IMG_1178-150x150.jpg
+featured_img: /uploads/IMG_1178.jpg
 ---
 
-# Judges Report &#8211; Otley Show
+# Judges Report – Otley Show
 
-#### <u>NDBC at Otley Show</u>
+![](/uploads/IMG_1178.jpg)
+
+## <u>NDBC at Otley Show</u>
 
 It was another first for the NDBC as their members took part in the first Dorset Classes at Otley Show on Saturday 16<sup>th</sup> May.
 

@@ -4,12 +4,14 @@ date: 2017-09-21 19:54:37
 modified: 2017-09-21 19:54:37
 permalink: blog/westmorland-show-2017/
 tags: ["Poll Dorset", "Results", "Thornbank"]
-featured_img: /uploads/2017/09/IMG_1578-150x150.jpg
+featured_img: /uploads/IMG_1578.jpg
 ---
 
 # Westmorland Show 2017
 
-<span style="text-decoration: underline;">**Any Other Breed**</span>
+![](/uploads/IMG_1578.jpg)
+
+**Any Other Breed**
 
 **Champion – Thornbank Farms (Ewe)**
 

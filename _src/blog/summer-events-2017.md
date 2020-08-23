@@ -4,10 +4,13 @@ date: 2017-02-25 12:59:26
 modified: 2017-02-25 12:59:26
 permalink: blog/summer-events-2017/
 tags: ["AGM", "Bennachie", "Event", "Gisburn", "James Royan", "NDBC"]
-featured_img: /uploads/2017/02/IMG_0037-150x150.gif
+featured_img: /uploads/IMG_0037.gif
 ---
 
 # Summer Events 2017
+
+![](/uploads/IMG_0037.gif)
+
 
 To be able to make arrangements for these events we need interested parties to let Karen Hodgson or Alec Steff to know ASAP
 

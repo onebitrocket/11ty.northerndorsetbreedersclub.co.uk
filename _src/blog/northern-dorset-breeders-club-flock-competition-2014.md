@@ -4,10 +4,12 @@ date: 2014-09-02 09:56:22
 modified: 2014-09-02 09:56:22
 permalink: blog/northern-dorset-breeders-club-flock-competition-2014/
 tags: ["Bennachie", "Edwin Pocock", "Hall Lane", "NDBC", "Poll Dorset", "Report", "Sam Driver", "Waggoners"]
-featured_img: /uploads/2014/09/IMG_5342-150x150.jpg
+featured_img: /uploads/IMG_5342.jpg
 ---
 
 # Northern Dorset Breeders Club Flock Competition 2014
+
+![](/uploads/IMG_5342.jpg)
 
 I would like to thank all who entered the Flock Competition for their helpfulness, graciousness and hospitality. It has been very enlightening and informative to see your stock in its own environment.
 

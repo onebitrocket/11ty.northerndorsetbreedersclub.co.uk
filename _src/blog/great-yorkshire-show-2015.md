@@ -4,10 +4,12 @@ date: 2015-08-13 20:07:31
 modified: 2015-08-13 20:07:31
 permalink: blog/great-yorkshire-show-2015/
 tags: ["Alec Steff", "Edwin Pocock", "Great Yorkshire Show", "James Royan", "Karen Hodgson", "Results", "Waggoners"]
-featured_img: /uploads/2014/05/20140510-112654-150x150.jpg
+featured_img: /uploads/20140510-112654.jpg
 ---
 
 # Great Yorkshire Show 2015
+
+![](/uploads/20140510-112654.jpg)
 
 **<u>Great Yorkshire Show Results</u>**
 
@@ -37,12 +39,10 @@ featured_img: /uploads/2014/05/20140510-112654-150x150.jpg
 4. **Mr E Pocock**
 5. **Mrs K Hodgson**
 
-<div class="wp-caption alignnone" id="attachment_476" style="width: 316px">[![James Royan's Group of Three](/uploads/2015/08/IMG_1538-306x230.jpg)](/uploads/2015/08/IMG_1538.jpg)James Royan’s Group of Three
+![James Royan's Group of Three](/uploads/IMG_1538.jpg)
 
-</div><div class="wp-caption alignnone" id="attachment_473" style="width: 316px">[![Group of Three Line-up](/uploads/2015/08/IMG_1534-306x230.jpg)](/uploads/2015/08/IMG_1534.jpg)Group of Three Line-up
+![Group of Three Line-up](/uploads/IMG_1534.jpg)]
 
-</div><div class="wp-caption alignnone" id="attachment_475" style="width: 316px">[![Ram Lamb Class](/uploads/2015/08/IMG_1525-306x230.jpg)](/uploads/2015/08/IMG_1525.jpg)Ram Lamb Class
+![Ram Lamb Class](/uploads/IMG_1525.jpg)
 
-</div><div class="wp-caption alignnone" id="attachment_474" style="width: 316px">[![James Royan's NDBC Champion](/uploads/2015/08/IMG_1543-306x230.jpg)](/uploads/2015/08/IMG_1543.jpg)James Royan’s NDBC Champion
-
-</div>
+![James Royan's NDBC Champion](/uploads/IMG_1543.jpg)

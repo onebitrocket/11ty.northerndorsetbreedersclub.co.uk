@@ -4,10 +4,12 @@ date: 2017-06-26 09:27:58
 modified: 2017-06-26 09:27:58
 permalink: blog/todmordon-show-results/
 tags: ["Alec Steff", "Results", "Todmorden"]
-featured_img: /uploads/2015/06/tod-show-150x129.png
+featured_img: /uploads/tod-show.png
 ---
 
 # Todmordon Show Results
+
+![](/uploads/tod-show.png)
 
 Any Other Native
 

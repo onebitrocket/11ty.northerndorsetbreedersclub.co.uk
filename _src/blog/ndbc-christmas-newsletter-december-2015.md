@@ -4,7 +4,7 @@ date: 2015-12-23 13:37:35
 modified: 2015-12-23 13:37:35
 permalink: blog/ndbc-christmas-newsletter-december-2015/
 tags: ["AGM", "Alec Steff", "Bamburgh", "Bramain", "D Hullah", "David Eglin", "Edwin Pocock", "Fourways", "Hall Lane", "NDBC", "Sam Driver", "Sandy Lane", "Thornbank"]
-featured_img: /uploads/2015/12/christmas-150x150.jpg
+featured_img: /uploads/christmas.jpg
 ---
 
 # NDBC Christmas Newsletter December 2015
@@ -48,5 +48,3 @@ It is also that time of year again when membership is due for renewal, forms are
 That’s it for this year! We hope you all have a wonderful Christmas and a successful new year!
 
 Thank you ALL for your Support throughout 2015!
-
-<u></u>

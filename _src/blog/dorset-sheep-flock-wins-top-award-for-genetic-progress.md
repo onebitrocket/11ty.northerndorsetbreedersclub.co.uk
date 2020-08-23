@@ -4,10 +4,12 @@ date: 2014-03-26 21:40:52
 modified: 2014-04-29 23:29:02
 permalink: blog/dorset-sheep-flock-wins-top-award-for-genetic-progress/
 tags: []
-featured_img: /uploads/2014/03/059-150x150.jpg
+featured_img: /uploads/059.jpg
 ---
 
 # Dorset sheep flock wins top award for genetic progress
+
+![](/uploads/059.jpg)
 
 The Dorset sheep winner of the EBLEX Improved Flock Awards for 2013 is the Hall Lane Flock, owned by Edwin and Jenny Pocock at Totley Hall Farm, near Sheffield, South Yorkshire.
 
@@ -19,15 +21,13 @@ Previously, Edwin was the manager of a pig, sheep and arable enterprise near Nun
 
 The physical constraints are many. The farmstead is cut off from the pasture land and surrounded by housing estates on the urban fringe. Small fields, average size 2.4ha (6 acres), run up to the Peak District Moors, reaching a height of 270 metres (900ft). In 2012 rainfall was 147cm (58 inches) and the soils are heavy. Access to the fields is by trailer only, so once turned out post lambing, the ewes and lambs have to stay out.
 
-Nativity sheep
---------------
+## Nativity sheep
 
 The Dorset breed was original chosen because it could produce new-born lambs in November and December. This allowed them to participate in Nativity plays run for schools and families, and provide an animal handling experience for the children as part of an on farm diversification project.
 
 Once on the farm, the Pocock’s found the ewes to be good, easy lambing mothers. There was also strong demand for females in the area, as producers of spring lambs for farm shops, and as embryo recipients for other pedigree breeders.
 
-Recording performance
----------------------
+## Recording performance
 
 The flock has been Signet recorded since 2004 with detailed records kept for each animal. The Pocock’s are members of the Centurion Sire Reference Group.
 
@@ -41,8 +41,7 @@ They are housed until the weather and grass growth allows them to be turned out 
 
 All female sheep kept for breeding this year must be true to type, have good conformation and be in the top 20% of breed performance indices, ie over 300 points on the Sire Index. Speed of growth, muscle depth, conformation and maternal ability are traits the Pocock’s are particularly looking to improve still further.
 
-Regular and new customers
--------------------------
+## Regular and new customers
 
 Hall Lane Dorsets have been sold to customers across the UK, from the Isle of Wight to Scotland and from Suffolk to Wales. Most buyers of live animals are not fully conversant with EBVs, so Edwin takes time to explain the figures, advising how to select a tup with appropriate strengths for their requirements. However, he finds that customers who buy semen, both in the UK and overseas, seem more likely to base their purchasing decisions on figures. Recently a group of Danish farmers bought 50 doses of semen from his stock ram Ballytaggart Nijinsky.
 
@@ -58,8 +57,7 @@ Commenting on winning the EBLEX award, Edwin put the success down to using high 
 
 Mr &amp; Mrs Pocock are honoured to have won the award, saying it is recognition and reward for all the hard work, good husbandry and stock selection that has taken place over the last few years. They also say it will also help to promote the image and marketing of the flock.
 
-Invest in superior genetics
----------------------------
+## Invest in superior genetics
 
 “One of the major benefits of improving the genetics of a flock is the cumulative and permanent way it lifts performance.” Says EBLEX sheep breeding specialist Samuel Boon.
 

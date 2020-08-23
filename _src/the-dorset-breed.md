@@ -2,7 +2,7 @@
 title: "The Dorset Breed"
 desc: "Understand the dorset breed and how they are effective livestock"
 layout: "layouts/base"
-featured_img: "/uploads/2014/04/March-2012-019-e1398722140498.jpg"
+featured_img: "/uploads/March-2012-019.jpg"
 tags:
   - primaryNav
   - homeBanner

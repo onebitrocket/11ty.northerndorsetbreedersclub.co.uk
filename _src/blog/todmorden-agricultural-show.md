@@ -4,14 +4,16 @@ date: 2015-06-24 11:43:21
 modified: 2015-06-24 11:43:21
 permalink: blog/todmorden-agricultural-show/
 tags: ["Alec Steff", "Poll Dorset", "Results", "Todmorden", "Waggoners"]
-featured_img: /uploads/2015/06/tod-show-150x129.png
+featured_img: /uploads/tod-show.png
 ---
 
 # Todmorden Agricultural Show
 
-#### Any other pure Native breed-(except Lonks and Primitive Breeds)
+![](/uploads/tod-show.png)
 
-##### Reserve Champion – Alec Steff (Ram Lamb)
+## Any other pure Native breed-(except Lonks and Primitive Breeds)
+
+### Reserve Champion – Alec Steff (Ram Lamb)
 
 Aged Tup – 2nd Alec Steff
 

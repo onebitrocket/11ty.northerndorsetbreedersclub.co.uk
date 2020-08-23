@@ -20,7 +20,7 @@ eleventyNavigation:
   <article class="article{% if item.data.featured_img %} thumb-left{% endif %}">
     {% if item.data.featured_img %}
       <div class="article-img">
-        <img src="{{ item.data.featured_img }}" alt="{{ item.data.title }}">
+        <img src="{{ item.data.featured_img }}?nf_resize=smartcrop&w=100&h=100" alt="{{ item.data.title }}">
       </div>
     {% endif %}
     <div class="article-body">

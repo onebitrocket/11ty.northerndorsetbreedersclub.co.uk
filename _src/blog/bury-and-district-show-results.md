@@ -4,10 +4,12 @@ date: 2017-06-26 11:27:10
 modified: 2017-06-26 11:27:10
 permalink: blog/bury-and-district-show-results/
 tags: ["Alec Steff", "Bury And District", "R Fitton", "Results", "Show"]
-featured_img: /uploads/2017/06/IMG_8530-150x150.png
+featured_img: /uploads/IMG_8530.png
 ---
 
 # Bury and District Show Results
+
+![](/uploads/IMG_8530.png)
 
 **Results – Any other Pedigree Breed.**
 

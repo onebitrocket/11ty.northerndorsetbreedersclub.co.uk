@@ -4,10 +4,12 @@ date: 2017-07-19 21:38:57
 modified: 2017-07-19 21:38:57
 permalink: blog/great-yorkshire-show-results/
 tags: ["Alec Steff", "Great Yorkshire Show", "Odgers &amp; Braithwaite", "Poll Dorset", "Results", "Sam Driver"]
-featured_img: /uploads/2017/07/IMG_8707-150x150.jpg
+featured_img: /uploads/IMG_8707.jpg
 ---
 
 # Great Yorkshire Show Results
+
+![](/uploads/IMG_8707.jpg)
 
 **Breed Champion – Mrs K Hodgson (Ram Lamb)**
 
@@ -71,14 +73,12 @@ featured_img: /uploads/2017/07/IMG_8707-150x150.jpg
 
 3rd Miss C Johnson
 
-<div class="wp-caption alignnone" id="attachment_602" style="width: 316px">![NDBC Champion Male and Female from Sam Driver](/uploads/2017/07/IMG_8683-306x230.jpg)NDBC Champion Male and Female from Sam Driver
+![NDBC Champion Male and Female from Sam Driver](/uploads/IMG_8683.jpg)
 
-</div><div class="wp-caption alignnone" id="attachment_600" style="width: 316px">![IMG_8666](/uploads/2017/07/IMG_8666-306x230.jpg)Judging the NDBC Female class
+![IMG_8666](/uploads/IMG_8666.jpg)J
 
-</div><div class="wp-caption alignnone" id="attachment_601" style="width: 316px">![Our judge for the day, Thomas Wright, Ballytaggart Flock.](/uploads/2017/07/IMG_8674-306x230.jpg)Our judge for the day, Thomas Wright, Ballytaggart Flock.
+![Our judge for the day, Thomas Wright, Ballytaggart Flock.](/uploads/IMG_8674.jpg)
 
-</div><div class="wp-caption alignnone" id="attachment_599" style="width: 240px">![Helen Driver's shearling ewe, female champion and reserve overall](/uploads/2017/07/IMG_8657-e1500500151609-230x306.jpg)Helen Driver’s shearling ewe, female champion and reserve overall
+![Helen Driver's shearling ewe, female champion and reserve overall](/uploads/IMG_8657-e1500500151609.jpg)
 
-</div><div class="wp-caption alignnone" id="attachment_604" style="width: 316px">![Former club chairman and society president Edwin Pocock and judging spectators](/uploads/2017/07/IMG_8703-306x230.jpg)Former club chairman and society president Edwin Pocock and judging spectators
-
-</div>
+![Former club chairman and society president Edwin Pocock and judging spectators](/uploads/IMG_8703.jpg)

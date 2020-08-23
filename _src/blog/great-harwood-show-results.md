@@ -4,10 +4,12 @@ date: 2017-05-30 08:22:09
 modified: 2017-05-30 08:23:09
 permalink: blog/great-harwood-show-results/
 tags: ["Alec Steff", "Great Harwood Show", "Odgers &amp; Braithwaite", "Results"]
-featured_img: /uploads/2013/08/Prize-ticket-150x150.jpg
+featured_img: /uploads/Prize-ticket.jpg
 ---
 
 # Great Harwood Show Results
+
+![](/uploads/Prize-ticket.jpg)
 
 **Any Other Breed.**
 

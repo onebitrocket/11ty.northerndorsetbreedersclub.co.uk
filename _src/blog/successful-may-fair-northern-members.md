@@ -4,7 +4,7 @@ date: 2014-05-27 10:06:54
 modified: 2014-05-28 18:15:44
 permalink: blog/successful-may-fair-northern-members/
 tags: ["Hall Lane", "May Fair", "Results", "Sandy Lane", "Show"]
-featured_img: /uploads/2014/05/Best-Horn-Exhibit-Shearling-Horn.2014-150x150.jpg
+featured_img: /uploads/Best-Horn-Exhibit-Shearling-Horn.2014.jpg
 ---
 
 # Successful May Fair For Northern Members
@@ -13,7 +13,7 @@ The Dorset Horn and Poll Dorset Sheepbreeders Association held its annual May Fa
 
 Sam Driver’s ‘Sandy Lane Titanium T1088’ had a successful pre-sale show coming away with Best Single Horn Shearling and taking the Best Horn Exhibit Prize. He sold for 800gns to the Netherton flock on the Wednesday. ‘Sandy Lane Tiesto’ a poll ram from the same stable sold for 720gns.
 
-![Best Horn Exhibit & Shearling Horn.2014](/uploads/2014/05/Best-Horn-Exhibit-Shearling-Horn.2014-206x306.jpg)
+![Best Horn Exhibit & Shearling Horn.2014](/uploads/Best-Horn-Exhibit-Shearling-Horn.2014.jpg)
 
 From the Northern consignment, Edwin Pocock’s, Hall Lane Flock had the highest price ram on the day with ‘Hall Lane Terrance’, a ‘Hall Lane Panther’ son selling for 950gns.
 

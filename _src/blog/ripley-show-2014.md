@@ -4,10 +4,12 @@ date: 2014-08-17 13:47:45
 modified: 2014-08-17 13:47:45
 permalink: blog/ripley-show-2014/
 tags: ["Alec Steff", "Burley", "Ripley", "Show", "Thornbank"]
-featured_img: /uploads/2014/08/IMG_0178-150x150.jpg
+featured_img: /uploads/IMG_0178.jpg
 ---
 
 # Ripley Show 2014
+
+![](/uploads/IMG_0178.jpg)
 
 **Judges Report – Mr Alec Steff (Waggoners)**
 
@@ -27,4 +29,4 @@ John and Sheila Gray’s homebred two shear ewe, out of a Blackhill sire and Hui
 
 Steward for the day was David Hullah, who was in good spirits and is now getting back into showing and hopes to be at Nidderdale in September, another show with dedicated Dorset Classes.
 
-[![IMG_0176](/uploads/2014/08/IMG_0176-306x229.jpg)](/uploads/2014/08/IMG_0176.jpg)
+![IMG_0176](/uploads/IMG_0176.jpg)

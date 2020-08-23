@@ -4,10 +4,12 @@ date: 2016-09-01 13:04:01
 modified: 2017-02-25 13:08:38
 permalink: blog/flock-competiton-results-2016/
 tags: ["Alec Steff", "Alex Birch", "Bamburgh", "Burley", "James Royan", "JE &amp; SM Gray", "Karen Hodgson", "Marren", "NDBC", "Poll Dorset", "Report", "Results"]
-featured_img: /uploads/2017/02/IMG_0038-150x150.jpg
+featured_img: /uploads/IMG_0038.jpg
 ---
 
 # Flock Competiton Results 2016
+
+![](/uploads/IMG_0038.jpg)
 
 NDBC Flock Competition Results.
 

@@ -4,10 +4,13 @@ date: 2015-06-22 20:47:37
 modified: 2015-06-22 20:47:37
 permalink: blog/chelford-show-sale-2015-documents/
 tags: ["Chelford", "Edwin Pocock", "NDBC", "Poll Dorset", "Wright Marshall"]
-featured_img: /uploads/2014/07/Wright-Marshall-150x150.png
+featured_img: /uploads/Wright-Marshall.png
 ---
 
-# Chelford Show &#038; Sale 2015 &#8211; Documents
+# Chelford Show & Sale 2015 – Documents
+
+![](/uploads/Wright-Marshall.png)
+
 
 **<u>SHOW AND SALE CONDITIONS</u>**
 
@@ -42,12 +45,12 @@ All sheep must be lot numbered before entering the market.
 - **Sale to commence at 1.30pm** and is open to MV, non accredited, registered, unregistered, cross bred females and non home bred animals of all ages. Sale sheep will be accepted from all Dorset breeders whether or not they are club or national association members.
 - Rosettes and prize money provided by NDBC
 
-[Ram entry form](/uploads/2015/06/Ram-entry-form.docx)
+[Ram entry form](/uploads/Ram-entry-form.docx)
 
-[continuation form ram](/uploads/2015/06/continuation-form-ram.docx)
+[continuation form ram](/uploads/continuation-form-ram.docx)
 
-[Female entry form](/uploads/2015/06/Female-entry-form.docx)
+[Female entry form](/uploads/Female-entry-form.docx)
 
-[continuation form ewe](/uploads/2015/06/continuation-form-ewe.docx)
+[continuation form ewe](/uploads/continuation-form-ewe.docx)
 
-[female pens](/uploads/2015/06/female-pens.docx)
+[female pens](/uploads/female-pens.docx)

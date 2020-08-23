@@ -4,10 +4,12 @@ date: 2017-05-06 20:33:31
 modified: 2017-05-06 20:33:31
 permalink: blog/busy-may-fair-for-ndbc-members/
 tags: ["Bamburgh", "Bennachie", "Event", "Karen Hodgson", "Marren", "May Fair", "Poll Dorset", "Sam Driver", "Sandy Lane", "Stobilee"]
-featured_img: /uploads/2017/05/IMG_0039-150x150.jpg
+featured_img: /uploads/IMG_0039.jpg
 ---
 
 # Busy May Fair for NDBC Members
+
+![](/uploads/IMG_0039.jpg)
 
 Tuesday 2nd May saw the Dorset Horn and Poll Dorset Sheep Breeders Association hold their annual May Fair at Exeter Market. As ever the event was well attended by Northern Club members.
 

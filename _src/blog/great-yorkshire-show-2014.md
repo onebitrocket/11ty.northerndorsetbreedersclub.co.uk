@@ -4,7 +4,7 @@ date: 2014-07-14 20:18:43
 modified: 2014-07-14 20:18:43
 permalink: blog/great-yorkshire-show-2014/
 tags: ["Event", "Great Yorkshire Show", "Hall Lane", "Marren", "Poll Dorset", "Results", "Waggoners"]
-featured_img: /uploads/2014/07/IMG_0764-150x150.jpg
+featured_img: /uploads/IMG_0764.jpg
 ---
 
 # Great Yorkshire Show 2014
@@ -15,7 +15,7 @@ Taking the Open Class Supreme and Male Champion was Karen Hodgson’s senior ram
 
 We would like to thank Iolo, for taking the time to travel and making an excellent job of judging. Unfortunately he returned home laden with a lot of Yorkshire water! Thanks also to the exhibitors for making the time and effort to attend the show with quality stock. There’s no better shop window for the breed and interest is growing constantly.
 
-[![IMG_0764](/uploads/2014/07/IMG_0764-306x229.jpg)](/uploads/2014/07/IMG_0764.jpg)
+![IMG_0764](/uploads/IMG_0764.jpg)
 
 Supreme and Male Champion from K Hodgson, Reserve and Female Champion from Alec Steff.
 
@@ -123,4 +123,6 @@ Mr E Pocock (Ram Lamb)
 
 4th Mr A Steff (Aged Ram
 
-[![IMG_0788](/uploads/2014/07/IMG_0788-306x229.jpg)](/uploads/2014/07/IMG_0788.jpg)[![IMG_0783](/uploads/2014/07/IMG_0783-306x229.jpg)](/uploads/2014/07/IMG_0783.jpg)
+![IMG_0788](/uploads/IMG_0788.jpg)
+
+![IMG_0783](/uploads/IMG_0783.jpg)

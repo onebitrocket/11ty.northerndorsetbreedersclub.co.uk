@@ -4,10 +4,12 @@ date: 2014-09-01 11:54:01
 modified: 2014-09-01 11:54:01
 permalink: blog/ndbc-flock-competition-2014-results/
 tags: ["Alex Birch", "Bennachie", "Burley", "James Royan", "Marren", "Poll Dorset", "Results", "Sandy Lane"]
-featured_img: /uploads/2014/09/IMG_5346-150x150.jpg
+featured_img: /uploads/IMG_5346.jpg
 ---
 
 # NDBC Flock Competition 2014 Results
+
+![](/uploads/IMG_5346.jpg)
 
 **SMALL** **FLOCK**
 
