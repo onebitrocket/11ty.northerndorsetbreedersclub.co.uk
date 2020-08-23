@@ -7,13 +7,11 @@ layout: "layouts/base"
 
 # Club Documents
 
-Membership forms
-----------------
+## Membership forms
 
 - [Membership application form \[PDF\]](/uploads/membership-application.pdf)
 
-Chelford Show and Sale 2015 Documents
--------------------------------------
+## Chelford Show and Sale 2015 Documents
 
 [Show and Sale conditions](/uploads/Show-and-Sale-conditions.docx)
 

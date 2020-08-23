@@ -16,10 +16,8 @@ eleventyNavigation:
 
 [NDBC-Membership](/uploads/NDBC-Membership.pdf)
 
-[Download](/uploads/NDBC-Membership.pdf)
-
 Do you own Dorset Sheep, aspire to own some or just admire them from afar?
-Why not join our club- become involved in our social calendar which over the past year has included a judging day, farm walk, training on show preparation. Culminating in our AGM and evening get together see [our events page](https://northerndorsetbreedersclub.local/events/ "Events") for further details.
+Why not join our club- become involved in our social calendar which over the past year has included a judging day, farm walk, training on show preparation. Culminating in our AGM and evening get together see [our events page](/events/ "Events") for further details.
 
 ## Application form for membership of Northern Dorset Breeders Club
 

@@ -13,6 +13,6 @@ eleventyNavigation:
 # Contact Us
 
 Please contact us and we will reply as soon as possible.
-If you wish to advertise sheep wanted or for sale we will add you to our list as soon as our treasurer receives payment [(details on our membership form)](https://northerndorsetbreedersclub.local/become-a-member/)
+If you wish to advertise sheep wanted or for sale we will add you to our list as soon as our treasurer receives payment [(details on our membership form)](/become-a-member/)
 
 \[contact-form-7 id=”661″ title=”Contact form 1″\]
