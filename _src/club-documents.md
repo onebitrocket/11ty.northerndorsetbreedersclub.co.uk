@@ -10,7 +10,7 @@ layout: "layouts/base"
 Membership forms
 ----------------
 
-- [Membership application form \[PDF\]](https://northerndorsetbreedersclub.local/dorsets/wp-content/uploads/membership-application.pdf)
+- [Membership application form \[PDF\]](/uploads/membership-application.pdf)
 
 Chelford Show and Sale 2015 Documents
 -------------------------------------

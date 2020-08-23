@@ -21,4 +21,4 @@ Congratulations to the Bamburgh flock owned by the Johnson family, for winning C
 
 **3rd** Robert Whittaker (Charolais)
 
-[![bamburgh 1](/uploads/bamburgh-1.jpg)](/uploads/bamburgh-1.jpg)
+![bamburgh 1](/uploads/bamburgh-1.jpg)
