@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Bamburgh", "Bennachie", "Edwin Pocock", "Hall Lane", "Kare
 featured_img: /uploads/IMG_1114.jpg
 ---
 
-# May Fair 2015
-
 ![](/uploads/IMG_1114.jpg)
 
 This year saw a strong representation of NDBC members at this year’s society show and sale at Exeter Livestock Centre, showing, selling and judging. Several rams made the long journey down and a few select purchases came back up north.

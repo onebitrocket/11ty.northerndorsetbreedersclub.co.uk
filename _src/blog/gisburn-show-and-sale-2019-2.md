@@ -7,8 +7,6 @@ tags: ["Champion", "Gisburn", "Sale", "Show"]
 featured_img: /uploads/34854EFC-CB60-4425-AF96-366BD008ED0F.jpg
 ---
 
-# Gisburn Show and Sale 2019
-
 ![](/uploads/34854EFC-CB60-4425-AF96-366BD008ED0F.jpg)
 
 Saturday 10<sup>th</sup> August saw the Northern Dorset Breeders Club hold its annual show and sale, the 3<sup>rd</sup> one now at Gisburn Auction Mart. Judging of the pre-sale show was left in the capable hands of Mr George Robson of the Ballyhamage Flock, Co. Antrim. Claiming the Championship was the shearling gimmer Sandy Lane A4990 from Sam Driver, sired by Deverill Xenon and scanned carrying a single to Huish Alpha. After a flurry of bids, she was secured by new breeder Julie Bradley for the day’s top price of 560gns. The reserve ticket went to the Male Champion, Waggoners Adonis from Club Chairman Alec Steff. Sired by Poorton Zephyr, stock ram at the Waggoners and Dynamite flocks, Waggoners Adonis goes back home to Ballyhamage with Mr Robson.

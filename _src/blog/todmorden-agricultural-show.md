@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Poll Dorset", "Results", "Todmorden", "Waggoners"]
 featured_img: /uploads/tod-show.png
 ---
 
-# Todmorden Agricultural Show
-
 ![](/uploads/tod-show.png)
 
 ## Any other pure Native breed-(except Lonks and Primitive Breeds)

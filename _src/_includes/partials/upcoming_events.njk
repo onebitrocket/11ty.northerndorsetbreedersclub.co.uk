@@ -1,4 +1,6 @@
-{% set nextEvent = collections.events | head(-1) %}
+{% set nextEvent = collections.eventposts | head(-1) %}
+
+{% if nextEvent | length >= 1 %}
 <aside class="widget">
   <div class="widget-title">
     <h2>Upcoming Events</h2>
@@ -18,3 +20,4 @@
     <p><a href="/events/">More events &raquo;</a></p>
   </div>
 </aside>
+{% endif %}

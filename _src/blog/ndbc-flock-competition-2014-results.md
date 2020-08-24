@@ -7,8 +7,6 @@ tags: ["Alex Birch", "Bennachie", "Burley", "James Royan", "Marren", "Poll Dorse
 featured_img: /uploads/IMG_5346.jpg
 ---
 
-# NDBC Flock Competition 2014 Results
-
 ![](/uploads/IMG_5346.jpg)
 
 **SMALL** **FLOCK**

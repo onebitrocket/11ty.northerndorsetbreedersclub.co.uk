@@ -7,8 +7,6 @@ tags: ["Event", "Great Yorkshire Show", "Hall Lane", "Marren", "Poll Dorset", "R
 featured_img: /uploads/IMG_0764.jpg
 ---
 
-# Great Yorkshire Show 2014
-
 Considered to be one of the top agricultural shows in the country, the 2014 Great Yorkshire Show boasted a fine selection of Dorset sheep. Although entries were slightly smaller than last year, quality remained unaffected, even under adverse showing conditions! Although the weather looked promising, as Dorset judging got underway in the afternoon, the clouds broke and monsoon conditions followed. Judge for the day, Mr Iolo Davies, was undeterred by the rain and efficiently examined and placed the sheep presented to him.
 
 Taking the Open Class Supreme and Male Champion was Karen Hodgson’s senior ram, a Hilltop bred ram, being a strong contender from the out this was no surprise. The Reserve Male position also went to the Hodgson’s Marren flock with their ram lamb ‘Islaharnan Unique’, winner of the Ram Lamb class. Taking the judges eye and becoming Female Champion was Alec Steff’s Shearling ewe ‘Sherborne Tangerine’, already shown this season with success. She beat another entry from the Steff stable, a Sandy Lane bred aged ewe which won the adult ewe class and Edwin Pococks’s smart homebred ewe lamb. In the Northern Dorset Breeders Club classes, which are only open to exhibitor bred sheep from members of the club. Edwin Pocock’s strong homebred Hall Lane ram lamb, who is to become a stock ram in the flock took the Male Championship. Female and Supreme Championship was awarded to Karen Hodgson for her ewe that topped the female class. This success rounded off an excellent day for Karen taking Supreme Champion in the open class and Supreme Champion in the club classes.

@@ -7,8 +7,6 @@ tags: ["AGM", "Edwin Pocock", "Karen Hodgson", "NDBC", "Poll Dorset", "Sam Drive
 featured_img: /uploads/1461328_397165330443232_2951838273920358503_n.jpg
 ---
 
-# NDBC Chairman’s Christmas Newsletter
-
 Hello All,
 
 It appears that winter is finally here, but I don’t think we can complain too much after such a glorious summer. It has been a good year for members with many success’ at shows and sales and I’m sure that most of you have some future stars skipping round in what’s left of the grass!

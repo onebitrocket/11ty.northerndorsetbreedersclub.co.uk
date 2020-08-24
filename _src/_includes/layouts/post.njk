@@ -1,6 +1,23 @@
 {% extends "layouts/base.njk" %}
 
-{% block post %}
-  {% include "partials/pagination_posts.njk" %}
-{% endblock post %}
+{% block content %}
+
+  <article class="article">
+    <div class="article-body">
+      <div class="article-title">
+        <h1>{{ title }}</h1>
+        <div class="article-meta">
+          <p>Published on {{ date | readableDate }}</p>
+        </div>
+      </div>
+      <div class="article-desc">
+        {{ content | safe }}
+      </div>
+      <div class="article-footer">
+        {% include "partials/pagination_posts.njk" %}
+      </div>
+    </div>
+  </article>
+
+{% endblock content %}
 

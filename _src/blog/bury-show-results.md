@@ -7,6 +7,4 @@ tags: ["Bury", "Results", "Show"]
 featured_img: /uploads/2019-07-06-2.png
 ---
 
-# Bury Show Results
-
 ![](/uploads/2019-07-06-2.png)

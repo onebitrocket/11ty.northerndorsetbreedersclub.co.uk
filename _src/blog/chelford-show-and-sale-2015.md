@@ -7,8 +7,6 @@ tags: ["Bamburgh", "Bennachie", "Edwin Pocock", "James Royan", "NDBC", "Poll Dor
 featured_img: /uploads/E-Champion-Dorset-07.jpg
 ---
 
-# Chelford Show and Sale Report 2015
-
 ![Overall Champion from Bamburgh Flock](/uploads/E-Champion-Dorset-07.jpg)
 
 ![Bamburgh Edmar, Reserve Champion Male](/uploads/E-Res-Champion-Dorset-02.jpg)

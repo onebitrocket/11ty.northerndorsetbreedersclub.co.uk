@@ -7,8 +7,6 @@ tags: ["Event", "Great Yorkshire Show"]
 featured_img: /uploads/20140510-112654.jpg
 ---
 
-# Great Yorkshire show entry closing dates
-
 ![](/uploads/20140510-112654.jpg)
 
 The closing deadline for entries for the Great Yorkshire Show 8-10 July 2014 is the 13th May.

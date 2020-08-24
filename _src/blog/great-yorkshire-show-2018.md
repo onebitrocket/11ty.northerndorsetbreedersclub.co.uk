@@ -7,6 +7,4 @@ tags: []
 featured_img: /uploads/BC15EE5D-8EBD-4F0D-86BF-2205307C1AFF.jpeg
 ---
 
-# Great Yorkshire Show 2018
-
 ![](/uploads/15B6CCC0-D75F-4C3E-A634-8785672B9AA0.jpeg)

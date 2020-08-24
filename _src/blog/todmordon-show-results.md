@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Results", "Todmorden"]
 featured_img: /uploads/tod-show.png
 ---
 
-# Todmordon Show Results
-
 ![](/uploads/tod-show.png)
 
 Any Other Native

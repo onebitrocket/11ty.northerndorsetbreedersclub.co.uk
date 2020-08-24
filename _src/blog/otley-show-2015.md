@@ -7,8 +7,6 @@ tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE &amp; SM Gray", "Otley Show
 featured_img: /uploads/IMG_1178.jpg
 ---
 
-# Otley Show 2015
-
 ![](/uploads/IMG_1178.jpg)
 
 ## Champion (Winner of the Wharfedale Cup) – A Steff (Shearling Ram or Over)

@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Great Yorkshire Show", "Odgers &amp; Braithwaite", "Poll D
 featured_img: /uploads/IMG_8707.jpg
 ---
 
-# Great Yorkshire Show Results
-
 ![](/uploads/IMG_8707.jpg)
 
 **Breed Champion – Mrs K Hodgson (Ram Lamb)**

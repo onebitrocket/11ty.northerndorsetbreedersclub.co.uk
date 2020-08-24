@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Burley", "Ripley", "Show", "Thornbank"]
 featured_img: /uploads/IMG_0178.jpg
 ---
 
-# Ripley Show 2014
-
 ![](/uploads/IMG_0178.jpg)
 
 **Judges Report – Mr Alec Steff (Waggoners)**

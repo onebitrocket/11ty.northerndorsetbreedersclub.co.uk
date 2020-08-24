@@ -7,8 +7,6 @@ tags: ["Edwin Pocock", "Hall Lane", "Poll Dorset"]
 featured_img: /uploads/Sedgemoor-Dispersal.jpg
 ---
 
-# Hall Lane Dispersal – Change of Venue
-
 **PLEASE NOTE, DUE TO UNFORESEEN CIRCUMSTANCES THE VENUE IS NOW SEDGEMOOR AUCTION MART, NOT EXETER AS PREVIOUSLY ADVERTISED.**
 
 ![Sedgemoor Dispersal](/uploads/Sedgemoor-Dispersal.jpg)

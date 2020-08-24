@@ -6,9 +6,6 @@ permalink: blog/judges-report-otley-show/
 tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE &amp; SM Gray", "NDBC", "Otley Show", "Report", "Wharfedale Cup"]
 featured_img: /uploads/IMG_1178.jpg
 ---
-
-# Judges Report – Otley Show
-
 ![](/uploads/IMG_1178.jpg)
 
 ## <u>NDBC at Otley Show</u>

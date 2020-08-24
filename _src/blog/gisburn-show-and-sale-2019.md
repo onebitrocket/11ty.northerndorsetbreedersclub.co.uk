@@ -7,8 +7,6 @@ tags: ["Gisburn", "Sale", "Show"]
 featured_img: /uploads/45B6CF04-9010-4F65-AF3E-AE25920DE7AA.jpeg
 ---
 
-# Gisburn Show and Sale 2019
-
 ![](/uploads/45B6CF04-9010-4F65-AF3E-AE25920DE7AA.jpeg)
 
 Members should today have received via email, entry forms and sale conditions for Gisburn Show and Sale 2019. If you haven’t received them and would like to please contact; sam.driver1@btinternet.com.

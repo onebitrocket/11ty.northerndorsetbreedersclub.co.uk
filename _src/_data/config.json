@@ -17,7 +17,7 @@
   },
   "feed": {
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
+    "path": "/blog/feed/feed.xml",
     "id": "https://northerndorsetbreedersclub.co.uk/"
   }
 }

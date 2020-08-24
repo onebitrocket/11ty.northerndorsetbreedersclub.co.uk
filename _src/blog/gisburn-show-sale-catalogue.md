@@ -7,8 +7,6 @@ tags: ["Gisburn", "Sale", "Show"]
 featured_img: /uploads/IMG_1339.jpg
 ---
 
-# Gisburn Show & Sale Catalogue
-
 ![](/uploads/IMG_1339.jpg)
 
 The Gisburn Sale catalogue is now available to download from the auctioneers www.rturner.co.uk. Or by requesting a copy from stuartalderson@rocketmail.com.

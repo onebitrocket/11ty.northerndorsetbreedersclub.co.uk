@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Edwin Pocock", "Great Yorkshire Show", "James Royan", "Kar
 featured_img: /uploads/20140510-112654.jpg
 ---
 
-# Great Yorkshire Show 2015
-
 ![](/uploads/20140510-112654.jpg)
 
 **<u>Great Yorkshire Show Results</u>**

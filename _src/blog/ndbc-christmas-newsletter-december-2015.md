@@ -7,8 +7,6 @@ tags: ["AGM", "Alec Steff", "Bamburgh", "Bramain", "D Hullah", "David Eglin", "E
 featured_img: /uploads/christmas.jpg
 ---
 
-# NDBC Christmas Newsletter December 2015
-
 Seasons greetings to you all, hopefully you’re not too waterlogged at the moment!! It appears mother nature is not going to be as kind to us as last year, but at least the grass is still growing!
 
 It has been a good year for members with many successes at shows and sales and i’m sure that most of you have some future stars swimming round in the fields.

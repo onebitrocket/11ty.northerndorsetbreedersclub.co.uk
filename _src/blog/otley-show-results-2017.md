@@ -7,8 +7,6 @@ tags: ["Alec Steff", "C Gardiner", "JE &amp; SM Gray", "Otley Show", "R Fitton",
 featured_img: /uploads/IMG_1908.jpg
 ---
 
-# Otley Show Results 2017
-
 ![](/uploads/IMG_1908.jpg)
 
 **CHAMPION** – **Wharfedale Trophy**

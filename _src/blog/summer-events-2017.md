@@ -7,8 +7,6 @@ tags: ["AGM", "Bennachie", "Event", "Gisburn", "James Royan", "NDBC"]
 featured_img: /uploads/IMG_0037.gif
 ---
 
-# Summer Events 2017
-
 ![](/uploads/IMG_0037.gif)
 
 

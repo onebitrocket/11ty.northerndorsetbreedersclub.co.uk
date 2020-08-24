@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Bury And District", "R Fitton", "Results", "Show"]
 featured_img: /uploads/IMG_8530.png
 ---
 
-# Bury and District Show Results
-
 ![](/uploads/IMG_8530.png)
 
 **Results – Any other Pedigree Breed.**

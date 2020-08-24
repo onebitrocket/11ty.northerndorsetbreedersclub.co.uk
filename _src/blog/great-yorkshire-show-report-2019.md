@@ -7,8 +7,6 @@ tags: ["Great Yorkshire Show", "NDBC", "Poll Dorset", "Report", "Show"]
 featured_img: /uploads/GYS-champion-19.jpg
 ---
 
-# Great Yorkshire Show Report 2019
-
 ![](/uploads/GYS-champion-19.jpg)
 
 Tuesday 9<sup>th</sup> July saw the judging of the Dorset Horn and Poll Dorset classes at the Great Yorkshire Show 2019. An increased number of exhibitors on the year, including some for the first time, turned out an excellent show of sheep. William Carson from the renowned Downkillybegs flock in County Antrim was tasked with the days judging. Although the start of the judging was delayed due to an overrunning breed in the same ring, a strong audience of spectators stayed on to see the proceeding selection of the days breed Champion.

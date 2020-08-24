@@ -7,8 +7,6 @@ tags: ["D Hullah", "Edwin Pocock", "Fourways", "Great Yorkshire Show", "NDBC", "
 featured_img: /uploads/fourwaysdorset-nogreen-large.jpg
 ---
 
-# David Hullah – Fourways Flock – Obituary
-
 It is with much sadness that we announce the passing of David, a stalwart Poll Dorset supporter who lost his long fight with cancer on 14.
 
 A short service took place at Stonefall Crematorium. Brenda, Claire and his extended family were joined by many friends and acquaintances and there was standing room only, a testament to his widespread popularity.

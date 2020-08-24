@@ -7,8 +7,6 @@ tags: ["Hall Lane", "May Fair", "Results", "Sandy Lane", "Show"]
 featured_img: /uploads/Best-Horn-Exhibit-Shearling-Horn.2014.jpg
 ---
 
-# Successful May Fair For Northern Members
-
 The Dorset Horn and Poll Dorset Sheepbreeders Association held its annual May Fair Show and Sale on the 6th and 7th May. Several NDBC members were in attendance, both exhibiting sheep and there to purchase new stock.
 
 Sam Driver’s ‘Sandy Lane Titanium T1088’ had a successful pre-sale show coming away with Best Single Horn Shearling and taking the Best Horn Exhibit Prize. He sold for 800gns to the Netherton flock on the Wednesday. ‘Sandy Lane Tiesto’ a poll ram from the same stable sold for 720gns.

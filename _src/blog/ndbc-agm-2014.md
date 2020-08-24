@@ -7,8 +7,6 @@ tags: ["Alec Steff", "Bennachie", "James Royan", "Karen Hodgson", "Marren", "May
 featured_img: /uploads/IMG_5312.jpg
 ---
 
-# NDBC AGM 2014
-
 ![](/uploads/IMG_5312.jpg)
 
 The Northern Dorset Breeders Club AGM was held at the Low Wood Hall Hotel, Nether Wasdale on the Friday evening following the society sale at Carlisle. A good number of members were in attendance, who enjoyed good food and plenty of chat, followed by the meeting. Outgoing Chairman, Cathryn Pritt, read her report of the clubs year, including successes at shows and sales and her thanks to other committee members for their help in the running of the club. It was proposed and seconded that Alec Steff becomes Chairman. Alec, also judge of this year’s club flock competition, gave out the results for the first time and handed out the prizes, including sheep licks and drenches.

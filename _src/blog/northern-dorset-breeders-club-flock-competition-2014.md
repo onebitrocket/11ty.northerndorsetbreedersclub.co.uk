@@ -7,8 +7,6 @@ tags: ["Bennachie", "Edwin Pocock", "Hall Lane", "NDBC", "Poll Dorset", "Report"
 featured_img: /uploads/IMG_5342.jpg
 ---
 
-# Northern Dorset Breeders Club Flock Competition 2014
-
 ![](/uploads/IMG_5342.jpg)
 
 I would like to thank all who entered the Flock Competition for their helpfulness, graciousness and hospitality. It has been very enlightening and informative to see your stock in its own environment.

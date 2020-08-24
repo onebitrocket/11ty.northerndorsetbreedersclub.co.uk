@@ -114,15 +114,15 @@ img {
   }
 }
 
-
 .section {
   h1 {
-    padding-bottom: 1rem;
     font-weight: 400;
     color: var(--primary-color);
+    padding-bottom: 1rem;
     border-bottom: 1px #e6e6e6 solid;
   }
 }
+
 a, a:visited, a:active {
   color: var(--link-color);
 }
@@ -215,6 +215,10 @@ a:hover {
   }
 }
 
+.container.banner {
+  padding: 0;
+}
+
 .content {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -242,6 +246,11 @@ a:hover {
     padding-left: 40px;
     padding-right: 40px;
   }
+  .container.banner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+
+  }
   .content {
     grid-template-areas: "main sidebar";
     grid-template-columns: 3fr 1fr;
@@ -255,8 +264,8 @@ a:hover {
       display: inline-block;
       border-top: none;
       a {
-        padding-left: 1rem;
-        padding-right: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
         white-space: nowrap;
         display: block;
       }
@@ -326,6 +335,49 @@ a:hover {
     font-size: var(--font-size-small);
     > :last-child {
       margin-bottom: 0;
+    }
+  }
+}
+
+
+/* banner pod */
+.banner  {
+  .pod {
+    min-height: 40rem;
+    padding-top:0;
+    margin-top:0;
+    border-top:none;
+    position: relative;
+    &-img {
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      img {
+        object-fit: cover;
+        min-height: 40rem;
+      }
+    }
+    &-title {
+      h3 {
+        font-size: var(--font-size-large);
+      }
+    }
+    &-body {
+      background-color: rgba(30 ,115 ,190 , 0.75);
+      text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.35);
+      padding: 2rem;
+      color: white;
+      height: 14rem;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+    &:hover {
+      .pod-body {
+        background-color: rgba(9, 64, 113,0.75)
+      }
     }
   }
 }

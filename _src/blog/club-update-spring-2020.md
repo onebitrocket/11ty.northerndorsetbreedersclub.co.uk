@@ -7,8 +7,6 @@ tags: []
 featured_img: /uploads/group-of-dorsets.jpg
 ---
 
-# Club Update – Spring 2020
-
 ![](/uploads/group-of-dorsets.jpg)
 
 Due to the ongoing situation with Covid-19 the decision has been made to cancel the club open day on the 5th July at Thorney Bank Farm, Roughlee. We hope to reschedule this for later in the year dependant on social distancing guidelines. The club biannual flock competition will also be postponed till 2021.

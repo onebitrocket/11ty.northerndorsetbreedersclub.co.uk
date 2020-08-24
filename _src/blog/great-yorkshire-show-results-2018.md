@@ -7,6 +7,4 @@ tags: ["Great Yorkshire Show", "Results", "Show"]
 featured_img: /uploads/IMG_5137.jpg
 ---
 
-# Great Yorkshire Show Results 2019
-
 ![](/uploads/IMG_5137.jpg)

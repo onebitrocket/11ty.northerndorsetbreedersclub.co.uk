@@ -7,8 +7,6 @@ tags: []
 featured_img: /uploads/Gisburn-logo.png
 ---
 
-# Gisburn Catalogue 2019
-
 ![](/uploads/Gisburn-logo.png)
 
 Click on the link below to view the catalogue for the NDBC sale at Gisburn 2019

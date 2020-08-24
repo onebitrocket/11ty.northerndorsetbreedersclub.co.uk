@@ -7,8 +7,6 @@ tags: ["Poll Dorset", "Results", "Thornbank"]
 featured_img: /uploads/IMG_1578.jpg
 ---
 
-# Westmorland Show 2017
-
 ![](/uploads/IMG_1578.jpg)
 
 **Any Other Breed**

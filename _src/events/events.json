@@ -1,10 +1,7 @@
 {
-  "layout": "layouts/post",
+  "layout": "layouts/event",
   "date": "Last Modified",
   "eleventyNavigation": {
     "parent": "Events"
-  },
-  "tags":  [
-    "events"
-  ]
+  }
 }

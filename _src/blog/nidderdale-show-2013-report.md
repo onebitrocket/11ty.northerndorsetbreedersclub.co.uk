@@ -7,8 +7,6 @@ tags: ["2013", "Nidderdale", "Report", "Results", "Show"]
 featured_img: /uploads/nidderdale-show-2013.jpg
 ---
 
-# Nidderdale Show 2013 Report
-
 ![](/uploads/nidderdale-show-2013.jpg)
 
 After the very wet show last year exhibitors entering could have been forgiven for fearing this year could also be wet as the day dawned with overcast skies, heavy drizzle and thick fog as they neared the dale. However driving down the steep hill into the wonderful setting of the showground the sun appeared and jackets were taken off. Judging commenced with Four exhibitors presenting 18 sheep to the judge Edwin Pocock for him to make his descision.

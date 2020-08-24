@@ -3,10 +3,9 @@ title: "Events"
 permalink: "/events/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
 layout: "layouts/base"
 pagination:
-  data: collections.events
-  size: 10
+  data: collections.eventposts
+  size: 8
   alias: posts
-  reverse: true
 tags:
   - primaryNav
 eleventyNavigation:
@@ -15,6 +14,7 @@ eleventyNavigation:
 ---
 
 <h1>{{title }}</h1>
+{% if posts | length >= 1 %}
 {% for item in posts %}
   <article class="article{% if item.data.featured_img %} thumb-left{% endif %}">
     {% if item.data.featured_img %}
@@ -26,7 +26,7 @@ eleventyNavigation:
       <div class="article-title">
         <h3>{{ item.data.title }}</h3>
         <div class="article-meta">
-          <p>Published on {{ item.data.page.date | readableDate }}</p>
+          <p>{{ item.data.startDate | readableDate }}{% if item.data.endDate > item.data.startDate %} - {{ item.data.startDate | readableDate }}{% endif %}</p>
         </div>
       </div>
       <div class="article-desc"></div>
@@ -36,11 +36,13 @@ eleventyNavigation:
     </div>
   </article>
 {% endfor %}
-
 {% include "partials/pagination_listing.njk" %}
+{% else %}
+  <p>Sorry,there are no events currently scheduled</p>
+{% endif %}
 
 <hr>
 <h2>Looking for other events</h2>
 
-<p>Why not request or organise an event in your area? [Contact us](/contact-us/ "Contact Us") and let us know the requirements or details of any events you wish to organise.
+<p>Why not request or organise an event in your area? <a href="/contact-us/">Contact us</a> and let us know the requirements or details of any events you wish to organise.
 </p>

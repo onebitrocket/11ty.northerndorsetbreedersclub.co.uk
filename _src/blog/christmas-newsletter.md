@@ -7,8 +7,6 @@ tags: ["Gisburn", "Great Yorkshire Show", "Newsletter", "Report", "Results"]
 featured_img: /uploads/christmas.jpg
 ---
 
-# Christmas Newsletter
-
 Dear Members
 
 I hope this Newsletter finds all our members well? Despite this terrible weather!!! I’m sure some of you will be struggling with snow ☃️whilst others will be up to their armpits in mud☔️️!!

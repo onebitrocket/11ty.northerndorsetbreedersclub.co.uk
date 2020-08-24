@@ -17,8 +17,19 @@ module.exports = function(eleventyConfig) {
     return DateTime.local().toFormat("yyyy");
   });
 
+  const now = new Date();
+
+  const livePosts = p => p.date <= now;
+
   eleventyConfig.addCollection("blogposts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("**/blog/*.md");
+    return collectionApi.getFilteredByGlob("**/blog/*.md").filter(livePosts);
+  });
+
+  const liveEvents = e => e.startDate >= now;
+
+  console.log(liveEvents);
+  eleventyConfig.addCollection("eventposts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("**/events/*.md");
   });
 
   eleventyConfig.addFilter("readableDate", dateObj => {

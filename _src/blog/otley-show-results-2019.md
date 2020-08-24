@@ -7,6 +7,4 @@ tags: ["A Steff", "Champion", "Odgers &amp; Braithwaite", "Otley Show", "S&amp;J
 featured_img: /uploads/2019-06-24-2.png
 ---
 
-# Otley Show Results 2019
-
 ![](/uploads/2019-06-24-2.png)

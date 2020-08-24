@@ -7,8 +7,6 @@ tags: []
 featured_img: /uploads/2019-07-27-2.png
 ---
 
-# NDBC AGM 2019
-
 ![](/uploads/2019-07-27-2.png)
 
 DATE FOR YOUR DIARY! The Fitton Family would like to invite you to…

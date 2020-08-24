@@ -18,9 +18,9 @@
     <div id="primary" class="main">
       <div class="section">
 
-        {{ content | safe }}
+        {% block content %}
 
-        {% block post %}
+          {{ content | safe }}
 
         {% endblock %}
 

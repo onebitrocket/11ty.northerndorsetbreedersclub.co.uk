@@ -7,8 +7,6 @@ tags: ["Chelford", "Edwin Pocock", "NDBC", "Poll Dorset", "Wright Marshall"]
 featured_img: /uploads/Wright-Marshall.png
 ---
 
-# Chelford Show & Sale 2015 – Documents
-
 ![](/uploads/Wright-Marshall.png)
 
 
