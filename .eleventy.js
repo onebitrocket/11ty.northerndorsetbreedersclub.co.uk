@@ -27,7 +27,6 @@ module.exports = function(eleventyConfig) {
 
   const liveEvents = e => e.startDate >= now;
 
-  console.log(liveEvents);
   eleventyConfig.addCollection("eventposts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("**/events/*.md");
   });
