@@ -25,10 +25,20 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("**/blog/*.md").filter(livePosts);
   });
 
-  const liveEvents = e => e.startDate >= now;
 
-  eleventyConfig.addCollection("eventposts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("**/events/*.md");
+  // eleventyConfig.addCollection("eventposts", function(collectionApi) {
+    //   return collectionApi.getFilteredByGlob("**/events/*.md");
+    // });
+
+    const liveEvents = e => e.data.startDate >= now;
+
+  eleventyConfig.addCollection("eventposts", collection => {
+    const events = collection.getFilteredByGlob("**/events/*.md")
+      .sort((a, b) => {
+        return new Date(a.data.startDate) - new Date(b.data.startDate);
+      })
+      .filter(liveEvents);
+    return events;
   });
 
   eleventyConfig.addFilter("readableDate", dateObj => {
@@ -47,6 +57,8 @@ module.exports = function(eleventyConfig) {
 
     return array.slice(0, n);
   });
+
+
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
