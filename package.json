@@ -9,8 +9,16 @@
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://onebitrocket@github.com/onebitrocket/11ty.northerndorsetbreedersclub.co.uk.git"
+  },
   "author": "Matt Tunney",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onebitrocket/11ty.northerndorsetbreedersclub.co.uk/issues"
+  },
+  "homepage": "https://github.com/onebitrocket/11ty.northerndorsetbreedersclub.co.uk#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-navigation": "^0.1.5",
