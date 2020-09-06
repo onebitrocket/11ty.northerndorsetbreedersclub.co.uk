@@ -1,5 +1,4 @@
 backend:
-  # name: test-repo
   name: git-gateway
 
   accept_roles: #optional - accepts all users if left out
@@ -10,7 +9,7 @@ backend:
   branch: development
   # branch: master # Branch to update (optional; defaults to master)
 
-local_backend: true
+# local_backend: true
 
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
