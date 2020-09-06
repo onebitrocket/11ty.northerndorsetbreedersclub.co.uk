@@ -1,7 +1,6 @@
 ---
 title: "NBDC AGM 2017"
 date: 2017-02-25 12:43:49
-modified: 2017-02-25 12:43:49
 permalink: blog/nbdc-agm-2017/
 tags: []
 featured_img: /uploads/IMG_0274.jpg

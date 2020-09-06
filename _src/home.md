@@ -1,16 +1,14 @@
 ---
-title: "The Dorset Breed"
+title: "The Northern Dorset Breeders Club"
 desc: ""
 permalink: "/"
-layout: "layouts/base"
+layout: "layouts/page"
 tags:
   - primaryNav
 eleventyNavigation:
   key: "Home"
   order: 1
 ---
-
-# The Northern Dorset Breeders Club
 
 A group of Dorset breeders throughout the North of England and Scotland got together in the summer of 2011 and formed the Northern Dorset Breeders Club.
 

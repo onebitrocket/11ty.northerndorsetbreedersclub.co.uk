@@ -1,20 +1,18 @@
 ---
-title: "Become a Member"
-desc: "Join the club"
-date: 2013-07-08 18:48:51
 modified: 2019-07-17 19:08:42
-layout: "layouts/base"
-featured_img: "/uploads/Dorset-35.jpg"
-
+layout: layouts/page
+title: Become a Member
+desc: Join the club
+date: 2013-07-08 18:48:51
+featured_img: /uploads/Dorset-35.jpg
 tags:
   - primaryNav
   - homeBanner
 eleventyNavigation:
-  key: "Become a Member"
+  key: Become a Member
   order: 4
 ---
 
-# Become a Member
 
 [NDBC-Membership](/uploads/NDBC-Membership.pdf)
 

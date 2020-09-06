@@ -1,7 +1,6 @@
 ---
 title: "NDBC AGM 2016"
 date: 2016-06-11 16:59:48
-modified: 2016-06-11 16:59:48
 permalink: blog/ndbc-agm-2016/
 tags: []
 featured_img: /uploads/NDBC-Ireland-trip.jpg

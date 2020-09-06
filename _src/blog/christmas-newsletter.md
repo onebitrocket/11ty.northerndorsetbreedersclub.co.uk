@@ -1,7 +1,6 @@
 ---
 title: "Christmas Newsletter"
 date: 2017-12-26 09:56:56
-modified: 2017-12-26 09:56:56
 permalink: blog/christmas-newsletter/
 tags: ["Gisburn", "Great Yorkshire Show", "Newsletter", "Report", "Results"]
 featured_img: /uploads/christmas.jpg

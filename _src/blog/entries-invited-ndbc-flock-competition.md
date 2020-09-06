@@ -1,7 +1,6 @@
 ---
 title: "Entries Invited for NDBC Flock Competition"
 date: 2014-05-28 19:45:44
-modified: 2014-06-18 19:25:45
 permalink: blog/entries-invited-ndbc-flock-competition/
 tags: []
 featured_img: /uploads/IMG_4493-2.jpg

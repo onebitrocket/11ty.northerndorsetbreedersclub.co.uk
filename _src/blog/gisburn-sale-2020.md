@@ -1,7 +1,6 @@
 ---
 title: "Gisburn Sale 2020"
 date: 2020-06-12 12:02:11
-modified: 2020-06-12 12:02:13
 permalink: blog/gisburn-sale-2020/
 tags: []
 featured_img: /uploads/Gisburn-logo.png

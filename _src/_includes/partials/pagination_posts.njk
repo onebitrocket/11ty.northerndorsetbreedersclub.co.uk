@@ -1,7 +1,7 @@
 {% set prevPost = collections.blogposts | reverse | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.blogposts | reverse | getNextCollectionItem(page) %}
 
-<nav aria-labelledby="pagination" class="pagination-nav">
+<nav aria-label="Pagination Navigation" class="pagination-nav" role="navigation">
   <ul class="nav">
     {% if prevPost | length %}<li><a href="{{ prevPost.url }}" rel="prev" title="{{ prevPost.data.title }}">&laquo; Previous Post</a></li>{% endif %}
     {% if nextPost | length %}<li><a href="{{ nextPost.url }}" rel="next" title="{{ nextPost.data.title }}">Next Post &raquo;</a></li>{% endif %}

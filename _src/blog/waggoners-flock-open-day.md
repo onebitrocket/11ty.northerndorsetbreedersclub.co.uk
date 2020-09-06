@@ -1,7 +1,6 @@
 ---
 title: "Waggoners Flock Open Day"
 date: 2014-08-10 10:53:03
-modified: 2014-08-10 10:53:03
 permalink: blog/waggoners-flock-open-day/
 tags: ["Alex Birch", "Edwin Pocock", "NDBC", "Open Day", "Sam Driver", "Waggoners"]
 featured_img: /uploads/IMG_0826.jpg

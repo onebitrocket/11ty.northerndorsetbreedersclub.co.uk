@@ -1,7 +1,6 @@
 ---
 title: "NDBC AGM 2014"
 date: 2014-09-07 11:52:45
-modified: 2014-09-07 11:52:45
 permalink: blog/ndbc-agm-2014/
 tags: ["Alec Steff", "Bennachie", "James Royan", "Karen Hodgson", "Marren", "May Fair", "NDBC", "Open Day", "Poll Dorset", "Thornbank"]
 featured_img: /uploads/IMG_5312.jpg

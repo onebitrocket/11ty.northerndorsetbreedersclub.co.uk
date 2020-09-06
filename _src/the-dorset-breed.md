@@ -1,7 +1,7 @@
 ---
 title: "The Dorset Breed"
 desc: "Understand the dorset breed and how they are effective livestock"
-layout: "layouts/base"
+layout: "layouts/page"
 featured_img: "/uploads/March-2012-019.jpg"
 tags:
   - primaryNav
@@ -10,8 +10,6 @@ eleventyNavigation:
   key: "The Dorset Breed"
   order: 2
 ---
-
-# The Dorset Breed
 
 The Dorset Horn sheep breed is one of the oldest recorded breed of British sheep with the first flock book established in 1892. It unique ability to breed naturally out of season was soon recognised world wide.
 

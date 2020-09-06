@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: "/events/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
-layout: "layouts/base"
+layout: "layouts/page"
 pagination:
   data: collections.eventposts
   size: 8
@@ -14,7 +14,6 @@ eleventyNavigation:
   order: 5
 ---
 
-<h1>{{title }}</h1>
 {% if posts | length >= 1 %}
 {% for item in posts %}
   <article class="article{% if item.data.featured_img %} thumb-left{% endif %}">
@@ -23,17 +22,15 @@ eleventyNavigation:
         <img src="{{ item.data.featured_img }}?nf_resize=smartcrop&w=60&h=60" alt="{{ item.data.title }}">
       </div>
     {% endif %}
-    <div class="article-body">
-      <div class="article-title">
-        <h3>{{ item.data.title }}</h3>
-        <div class="article-meta">
-          <p>{{ item.data.startDate | readableDate }}{% if item.data.endDate > item.data.startDate %} - {{ item.data.startDate | readableDate }}{% endif %}</p>
-        </div>
+    <div class="article-title">
+      <h3>{{ item.data.title }}</h3>
+      <div class="article-meta">
+        <p>{{ item.data.startDate | readableDate }}{% if item.data.endDate > item.data.startDate %} - {{ item.data.startDate | readableDate }}{% endif %}</p>
       </div>
-      <div class="article-desc"></div>
-      <div class="article-footer">
-        <a href="{{ item.data.page.url }}">Read more &raquo;</a>
-      </div>
+    </div>
+    <div class="article-desc"></div>
+    <div class="article-footer">
+      <a href="{{ item.data.page.url }}">Read more &raquo;</a>
     </div>
   </article>
 {% endfor %}
@@ -42,8 +39,6 @@ eleventyNavigation:
   <p>Sorry,there are no events currently scheduled</p>
 {% endif %}
 
-<hr>
 <h2>Looking for other events</h2>
-
 <p>Why not request or organise an event in your area? <a href="/contact-us/">Contact us</a> and let us know the requirements or details of any events you wish to organise.
 </p>

@@ -1,7 +1,6 @@
 ---
 title: "Bury and District Show Results"
 date: 2017-06-26 11:27:10
-modified: 2017-06-26 11:27:10
 permalink: blog/bury-and-district-show-results/
 tags: ["Alec Steff", "Bury And District", "R Fitton", "Results", "Show"]
 featured_img: /uploads/IMG_8530.png

@@ -2,8 +2,6 @@ backend:
   # name: test-repo
   name: git-gateway
 
-local_backend: true
-
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
@@ -12,17 +10,60 @@ local_backend: true
   branch: development
   # branch: master # Branch to update (optional; defaults to master)
 
+local_backend: true
+
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
 
-media_folder: "uploads" # Media files will be stored in the repo under images/uploads
+media_folder: "_src/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/uploads"
 
 collections:
-  # Projects
+  # blog posts
   - name: "blogposts" # Used in routes, e.g., /admin/collections/projects
     label: "Blog posts" # Used in the UI
     labelSingular: "Blog posts"
+    description: >
+      Add your blog posts in here.
     folder: "_src/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string", hint: "The title of the post" }
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        required: false
+        hint: "A short description that appears on the blog listing pages"
+      - { label: "Featured Image", name: "featured_img", widget: "image", required: false, hint: "The thumbnail image that appears on the listing page" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown", required: false, editorComponents: [ "image", "file" ], buttons: [  "bold", "italic", "link", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list" ] }
+  # blog posts
+  - name: "eventposts" # Used in routes, e.g., /admin/collections/projects
+    label: "Events" # Used in the UI
+    labelSingular: "Event"
+    folder: "_src/events" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Featured Image", name: "featured_img", widget: "image", required: false }
+      - { label: "Start Date", name: "startDate", widget: "datetime" }
+      - { label: "End Date", name: "endDate", widget: "datetime", required: false }
+      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Map link", name: "map", widget: "string", required: false }
+      - { label: "All day event", name: "allDay", widget: "boolean"}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  - name: "pages"
+    label: "Pages" # Used in the UI
+    labelSingular: "Page"
+    folder: "_src" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -30,4 +71,3 @@ collections:
       - { label: "Summary", name: "desc", widget: "text", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-

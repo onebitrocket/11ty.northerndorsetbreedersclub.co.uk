@@ -1,7 +1,6 @@
 ---
 title: "Gisburn Show and Sale 2019"
 date: 2019-08-13 20:21:51
-modified: 2019-08-13 20:21:52
 permalink: blog/gisburn-show-and-sale-2019-2/
 tags: ["Champion", "Gisburn", "Sale", "Show"]
 featured_img: /uploads/34854EFC-CB60-4425-AF96-366BD008ED0F.jpg
@@ -40,10 +39,10 @@ Rams followed the trend for the year and were harder to find homes for. The seco
 **Ewe Lamb**
 
 1. Mr S Alderson
-2. S &amp; J Gray
+2. S & J Gray
 3. Mr S Alderson
 4. Mr A Birch
-5. S &amp; J Gray
+5. S & J Gray
 
 **Shearling Ram**
 
@@ -55,7 +54,7 @@ Rams followed the trend for the year and were harder to find homes for. The seco
 **Ram Lamb**
 
 1. Mr S Alderson
-2. S&amp;J Gray
+2. S&J Gray
 3. Mr J Allen
 
 ![](/uploads/image1.jpeg)

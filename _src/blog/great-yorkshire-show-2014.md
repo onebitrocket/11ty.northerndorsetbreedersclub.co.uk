@@ -1,7 +1,6 @@
 ---
 title: "Great Yorkshire Show 2014"
 date: 2014-07-14 20:18:43
-modified: 2014-07-14 20:18:43
 permalink: blog/great-yorkshire-show-2014/
 tags: ["Event", "Great Yorkshire Show", "Hall Lane", "Marren", "Poll Dorset", "Results", "Waggoners"]
 featured_img: /uploads/IMG_0764.jpg
@@ -79,7 +78,7 @@ Alec Steff (Shearling ewe)
 
 5th Mr A Steff
 
-6th Braithwaite &amp; Odgers
+6th Braithwaite & Odgers
 
 **Group of Three**
 

@@ -1,7 +1,6 @@
 ---
 title: "Great Yorkshire Show 2015"
 date: 2015-08-13 20:07:31
-modified: 2015-08-13 20:07:31
 permalink: blog/great-yorkshire-show-2015/
 tags: ["Alec Steff", "Edwin Pocock", "Great Yorkshire Show", "James Royan", "Karen Hodgson", "Results", "Waggoners"]
 featured_img: /uploads/20140510-112654.jpg

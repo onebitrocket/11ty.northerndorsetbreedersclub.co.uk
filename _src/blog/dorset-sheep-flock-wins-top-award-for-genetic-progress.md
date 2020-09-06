@@ -1,7 +1,6 @@
 ---
 title: "Dorset sheep flock wins top award for genetic progress"
 date: 2014-03-26 21:40:52
-modified: 2014-04-29 23:29:02
 permalink: blog/dorset-sheep-flock-wins-top-award-for-genetic-progress/
 tags: []
 featured_img: /uploads/059.jpg
@@ -53,7 +52,7 @@ Commenting on winning the EBLEX award, Edwin put the success down to using high 
 
 “Last year any females with Sire Indices below 220 points were culled; this year the cut off point will be 240 points. The ewes with better maternal EBVs will be sold to commercial breeders; the poorer ones will be sent for slaughter.”
 
-Mr &amp; Mrs Pocock are honoured to have won the award, saying it is recognition and reward for all the hard work, good husbandry and stock selection that has taken place over the last few years. They also say it will also help to promote the image and marketing of the flock.
+Mr & Mrs Pocock are honoured to have won the award, saying it is recognition and reward for all the hard work, good husbandry and stock selection that has taken place over the last few years. They also say it will also help to promote the image and marketing of the flock.
 
 ## Invest in superior genetics
 

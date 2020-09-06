@@ -1,7 +1,6 @@
 ---
 title: "Ripley Show 2014"
 date: 2014-08-17 13:47:45
-modified: 2014-08-17 13:47:45
 permalink: blog/ripley-show-2014/
 tags: ["Alec Steff", "Burley", "Ripley", "Show", "Thornbank"]
 featured_img: /uploads/IMG_0178.jpg

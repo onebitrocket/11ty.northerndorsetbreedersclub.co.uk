@@ -1,7 +1,6 @@
 ---
 title: "Todmordon Show Results"
 date: 2017-06-26 09:27:58
-modified: 2017-06-26 09:27:58
 permalink: blog/todmordon-show-results/
 tags: ["Alec Steff", "Results", "Todmorden"]
 featured_img: /uploads/tod-show.png

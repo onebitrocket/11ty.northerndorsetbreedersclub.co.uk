@@ -1,9 +1,8 @@
 ---
 title: "Gisburn Show and Sale 2018"
 date: 2018-08-26 18:17:53
-modified: 2018-08-26 18:17:53
 permalink: blog/gisburn-show-and-sale-2018/
-tags: ["Alec Steff", "Bamburgh", "Gisburn", "JE &amp; SM Gray", "NDBC", "Results", "Sam Driver", "Sandy Lane"]
+tags: ["Alec Steff", "Bamburgh", "Gisburn", "JE & SM Gray", "NDBC", "Results", "Sam Driver", "Sandy Lane"]
 featured_img: /uploads/45B6CF04-9010-4F65-AF3E-AE25920DE7AA.jpeg
 ---
 

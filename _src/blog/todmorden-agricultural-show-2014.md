@@ -1,7 +1,6 @@
 ---
 title: "Todmorden Agricultural Show 2014"
 date: 2014-06-22 12:27:37
-modified: 2014-06-22 12:27:37
 permalink: blog/todmorden-agricultural-show-2014/
 tags: ["Poll Dorset", "Show", "Todmorden", "Waggoners"]
 featured_img: /uploads/20140622-132622-48382066.jpg

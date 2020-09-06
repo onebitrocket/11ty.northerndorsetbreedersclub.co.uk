@@ -1,7 +1,6 @@
 ---
 title: "NDBC Christmas Newsletter December 2015"
 date: 2015-12-23 13:37:35
-modified: 2015-12-23 13:37:35
 permalink: blog/ndbc-christmas-newsletter-december-2015/
 tags: ["AGM", "Alec Steff", "Bamburgh", "Bramain", "D Hullah", "David Eglin", "Edwin Pocock", "Fourways", "Hall Lane", "NDBC", "Sam Driver", "Sandy Lane", "Thornbank"]
 featured_img: /uploads/christmas.jpg

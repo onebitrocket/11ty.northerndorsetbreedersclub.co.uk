@@ -1,7 +1,6 @@
 ---
 title: "Chelford Show & Sale 2015 - Documents"
 date: 2015-06-22 20:47:37
-modified: 2015-06-22 20:47:37
 permalink: blog/chelford-show-sale-2015-documents/
 tags: ["Chelford", "Edwin Pocock", "NDBC", "Poll Dorset", "Wright Marshall"]
 featured_img: /uploads/Wright-Marshall.png

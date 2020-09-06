@@ -1,7 +1,6 @@
 ---
 title: "Successful May Fair For Northern Members"
 date: 2014-05-27 10:06:54
-modified: 2014-05-28 18:15:44
 permalink: blog/successful-may-fair-northern-members/
 tags: ["Hall Lane", "May Fair", "Results", "Sandy Lane", "Show"]
 featured_img: /uploads/Best-Horn-Exhibit-Shearling-Horn.2014.jpg

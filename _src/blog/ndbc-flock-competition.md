@@ -1,7 +1,6 @@
 ---
 title: "NDBC Flock Competition"
 date: 2016-06-11 16:41:34
-modified: 2016-06-11 16:41:34
 permalink: blog/ndbc-flock-competition/
 tags: []
 featured_img: /uploads/group-of-dorsets.jpg

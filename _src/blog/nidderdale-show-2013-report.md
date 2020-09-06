@@ -1,7 +1,6 @@
 ---
 title: "Nidderdale Show 2013 Report"
 date: 2013-10-10 19:35:02
-modified: 2014-04-28 23:39:53
 permalink: blog/nidderdale-show-2013-report/
 tags: ["2013", "Nidderdale", "Report", "Results", "Show"]
 featured_img: /uploads/nidderdale-show-2013.jpg
@@ -21,32 +20,32 @@ An April born lamb sired by Sherbourne Storm took Reserve position having only b
 
 **Shearling Ram or older**
 
-1. S M &amp; J E Gray
+1. S M & J E Gray
 2. Thornbank Farms
 3. Miss S Smith
 
 **Ram Lamb:**
 
 1. Thornbank Farms
-2. S M &amp; J E Gray
+2. S M & J E Gray
 3. Mrs N Rowswell
 
 **Shearling Ewe or older**
 
-1. S M &amp; J E Gray
+1. S M & J E Gray
 2. Thornbank Farms
-3. SM &amp; JE Gray
+3. SM & JE Gray
 
 **Ewe Lamb born on or after 1st September 2012**
 
 1. Thornbank Farms
-2. S M &amp; J E Gray
-3. SM &amp; JE Gray
+2. S M & J E Gray
+3. SM & JE Gray
 
 **Group of Three to include Ram and 2 Females of different ages**
 
 1. Thornbank Farms
-2. S M &amp; J E Gray
+2. S M & J E Gray
 3. Mrs N Rowswell
 
 **Sheep carrying best commercial fleece**

@@ -1,7 +1,6 @@
 ---
 title: "North Sheep 2015"
 date: 2015-06-22 20:56:10
-modified: 2015-06-22 20:56:10
 permalink: blog/north-sheep-2015/
 tags: ["Alec Steff", "Karen Hodgson", "Poll Dorset", "Thornbank"]
 featured_img: /uploads/IMG_1194.jpg

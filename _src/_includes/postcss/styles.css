@@ -13,7 +13,7 @@
   --primary-color: #1e73be;
   --primary-color-tint: #cae5f9;
   --primary-color-shade: #094071;
-  --link-color: #2488e1;
+  --link-color: #004c90;
   --link-color-hover: #1e73be;
 
   --columns: 1;
@@ -58,10 +58,21 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+div > img {
+  margin-bottom: 3rem;
+}
+
 .content {
   h1, p, ul {
     margin-bottom: 3rem
 
+  }
+  h1 {
+    font-weight: 400;
+    color: var(--primary-color);
+    padding-bottom: 1rem;
+    border-bottom: 1px #e6e6e6 solid;
   }
   h2,h3,h4,h5,h6 {
     margin-bottom: 1rem
@@ -111,15 +122,6 @@ img {
 
   > .sidebar {
     grid-area: sidebar;
-  }
-}
-
-.section {
-  h1 {
-    font-weight: 400;
-    color: var(--primary-color);
-    padding-bottom: 1rem;
-    border-bottom: 1px #e6e6e6 solid;
   }
 }
 
@@ -284,13 +286,15 @@ a:hover {
     padding-top: 0;
   }
   &.thumb-left {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: calc(var(--gutter) / 2);
     .article {
-        &-img {
-        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-        float: left;
-        width: 10rem;
-        margin-bottom: 2rem;
-        margin-right: 2rem;
+      &-img {
+        img {
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+          width: 10rem;
+        }
       }
       &-body {
         overflow: hidden;
@@ -313,13 +317,15 @@ a:hover {
     padding-top: 0;
   }
   &.thumb-left {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: calc(var(--gutter) / 2);
     .pod {
-        &-img {
-        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-        float: left;
-        width: 6rem;
-        margin-bottom: 2rem;
-        margin-right: 2rem;
+      &-img {
+        img {
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+          width: 6rem;
+        }
       }
       &-body {
         overflow: hidden;

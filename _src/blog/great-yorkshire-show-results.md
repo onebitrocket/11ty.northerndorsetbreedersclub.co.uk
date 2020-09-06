@@ -1,9 +1,8 @@
 ---
 title: "Great Yorkshire Show Results"
 date: 2017-07-19 21:38:57
-modified: 2017-07-19 21:38:57
 permalink: blog/great-yorkshire-show-results/
-tags: ["Alec Steff", "Great Yorkshire Show", "Odgers &amp; Braithwaite", "Poll Dorset", "Results", "Sam Driver"]
+tags: ["Alec Steff", "Great Yorkshire Show", "Odgers & Braithwaite", "Poll Dorset", "Results", "Sam Driver"]
 featured_img: /uploads/IMG_8707.jpg
 ---
 
@@ -21,7 +20,7 @@ featured_img: /uploads/IMG_8707.jpg
 
 **Reserve Champion Female – Mr S Driver (Aged ewe)**
 
-**NDBC Male &amp; Female Champion – Mr S Driver (Shearling Ram &amp; Aged Ewe)**
+**NDBC Male & Female Champion – Mr S Driver (Shearling Ram & Aged Ewe)**
 
 **Shearling Ram or Over**
 
@@ -45,7 +44,7 @@ featured_img: /uploads/IMG_8707.jpg
 
 2nd Mrs K Hodgson
 
-3rd Odgers &amp; Braithwaite
+3rd Odgers & Braithwaite
 
 **Shearling Ewe**
 

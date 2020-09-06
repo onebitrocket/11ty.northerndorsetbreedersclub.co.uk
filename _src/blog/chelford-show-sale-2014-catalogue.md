@@ -1,7 +1,6 @@
 ---
 title: "Chelford Show and Sale 2014 - Catalogue"
 date: 2014-07-24 11:59:22
-modified: 2014-07-24 11:59:22
 permalink: blog/chelford-show-sale-2014-catalogue/
 tags: ["Chelford", "Edwin Pocock", "NDBC", "Poll Dorset", "Wright Marshall"]
 featured_img: /uploads/Wright-Marshall.png

@@ -1,9 +1,8 @@
 ---
 title: "Great Harwood Show Results"
 date: 2017-05-30 08:22:09
-modified: 2017-05-30 08:23:09
 permalink: blog/great-harwood-show-results/
-tags: ["Alec Steff", "Great Harwood Show", "Odgers &amp; Braithwaite", "Results"]
+tags: ["Alec Steff", "Great Harwood Show", "Odgers & Braithwaite", "Results"]
 featured_img: /uploads/Prize-ticket.jpg
 ---
 
@@ -24,7 +23,7 @@ featured_img: /uploads/Prize-ticket.jpg
 
 2nd Marie Odgers (Horn)
 
-**Pair (1 Male &amp; 1 Female)**
+**Pair (1 Male & 1 Female)**
 
 1st Alec Steff (Poll)
 

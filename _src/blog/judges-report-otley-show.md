@@ -1,9 +1,8 @@
 ---
 title: "Judges Report - Otley Show"
 date: 2015-05-24 10:19:43
-modified: 2015-05-24 10:19:43
 permalink: blog/judges-report-otley-show/
-tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE &amp; SM Gray", "NDBC", "Otley Show", "Report", "Wharfedale Cup"]
+tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE & SM Gray", "NDBC", "Otley Show", "Report", "Wharfedale Cup"]
 featured_img: /uploads/IMG_1178.jpg
 ---
 ![](/uploads/IMG_1178.jpg)
@@ -20,4 +19,4 @@ Alec Steff’s first prize shearling ewe and David Hullah’s January born champ
 
 In the male classes Alec Steff’s tups dominated, taking first prize in the shearling and ram lamb classes. His shearling tup went on to win the overall championship in a close contest with David’s ewe lamb, which took the reserve championship place.
 
-Apart from the winners, congratulations should also go to John &amp; Sheila Gray, who’s sheep came second in three of the classes. Well done all of you for taking the time to prepare and put on show some excellent quality Dorset sheep thereby promoting the breed to local farmers.
+Apart from the winners, congratulations should also go to John & Sheila Gray, who’s sheep came second in three of the classes. Well done all of you for taking the time to prepare and put on show some excellent quality Dorset sheep thereby promoting the breed to local farmers.

@@ -1,7 +1,6 @@
 ---
 title: "Westmorland Show 2017"
 date: 2017-09-21 19:54:37
-modified: 2017-09-21 19:54:37
 permalink: blog/westmorland-show-2017/
 tags: ["Poll Dorset", "Results", "Thornbank"]
 featured_img: /uploads/IMG_1578.jpg

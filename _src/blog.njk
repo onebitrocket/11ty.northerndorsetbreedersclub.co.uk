@@ -2,7 +2,7 @@
 title: "Blog"
 desc: ""
 permalink: "/blog/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
-layout: "layouts/base"
+layout: "layouts/page"
 pagination:
   data: collections.blogposts
   size: 8
@@ -15,7 +15,6 @@ eleventyNavigation:
   order: 6
 ---
 
-<h1>{{title }}</h1>
 {% for item in posts %}
   <article class="article{% if item.data.featured_img %} thumb-left{% endif %}">
     {% if item.data.featured_img %}
@@ -23,19 +22,17 @@ eleventyNavigation:
         <img src="{{ item.data.featured_img }}?nf_resize=smartcrop&w=100&h=100" alt="{{ item.data.title }}">
       </div>
     {% endif %}
-    <div class="article-body">
-      <div class="article-title">
-        <h3>{{ item.data.title }}</h3>
-        <div class="article-meta">
-          <p>Published on {{ item.data.date | readableDate }}</p>
-        </div>
+    <div class="article-title">
+      <h2>{{ item.data.title }}</h2>
+      <div class="article-meta">
+        <p>Published on {{ item.data.date | readableDate }}</p>
       </div>
-      <div class="article-desc"></div>
-      <div class="article-footer">
-        <a href="{{ item.data.page.url }}">Read more &raquo;</a>
-      </div>
+    </div>
+    {% if item.data.summary %}
+    <div class="article-desc"><p>{{ item.data.summary }}</p></div>
+      {% endif %}
+    <div class="article-footer">
+      <a href="{{ item.data.page.url }}">Read more &raquo;</a>
     </div>
   </article>
 {% endfor %}
-
-{% include "partials/pagination_listing.njk" %}

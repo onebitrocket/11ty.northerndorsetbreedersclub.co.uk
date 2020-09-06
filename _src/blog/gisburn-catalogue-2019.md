@@ -1,7 +1,6 @@
 ---
 title: "Gisburn Catalogue 2019"
 date: 2019-07-27 19:13:26
-modified: 2019-07-27 19:13:27
 permalink: blog/gisburn-catalogue-2019/
 tags: []
 featured_img: /uploads/Gisburn-logo.png

@@ -1,7 +1,6 @@
 ---
 title: "Club Update - Spring 2020"
 date: 2020-04-16 12:03:00
-modified: 2020-06-12 12:07:15
 permalink: blog/club-update-spring-2020/
 tags: []
 featured_img: /uploads/group-of-dorsets.jpg

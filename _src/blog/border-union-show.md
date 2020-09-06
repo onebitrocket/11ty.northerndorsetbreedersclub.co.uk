@@ -1,9 +1,10 @@
 ---
-title: "Border Union Show"
+title: Border Union Show
 date: 2014-08-17 13:37:24
-modified: 2014-08-17 13:37:24
 permalink: blog/border-union-show/
-tags: ["Bamburgh", "Show"]
+tags:
+  - Bamburgh
+  - Show
 featured_img: /uploads/bamburgh-2.jpg
 ---
 
@@ -15,7 +16,7 @@ Congratulations to the Bamburgh flock owned by the Johnson family, for winning C
 
 **1st** CA Johnson (Poll Dorset)
 
-**2nd** RN Howie &amp; Partners (Vendeen)
+**2nd** RN Howie & Partners (Vendeen)
 
 **3rd** Robert Whittaker (Charolais)
 

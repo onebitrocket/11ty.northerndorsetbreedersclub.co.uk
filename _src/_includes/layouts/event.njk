@@ -3,30 +3,28 @@
 {% block content %}
 
   <article class="article">
-    <div class="article-body">
-      <div class="article-title">
-        <h1>{{ title }}</h1>
-        <div class="article-meta">
-        {% if startDate %}
-          <p>Date: {{ startDate | readableDate }}{% if endDate > startDate %} - {{ startDate | readableDate }}{% endif %}</p>
+    <div class="article-title">
+      <h1>{{ title }}</h1>
+      <div class="article-meta">
+      {% if startDate %}
+        <p>Date: {{ startDate | readableDate }}{% if endDate > startDate %} - {{ startDate | readableDate }}{% endif %}</p>
+      {% endif %}
+      {% if location %}
+        {% set location = location %}
+        {% if map %}
+          {% set location = '<a href="' + map + '" target="_blank" rel="noopener noreferrer">'+ location + '</a>'  %}
         {% endif %}
-        {% if location %}
-          {% set location = location %}
-          {% if map %}
-            {% set location = '<a href="' + map + '" target="_blank" rel="noopener noreferrer">'+ location + '</a>'  %}
-          {% endif %}
-          <p>Location: {{ location | safe }}</p>
-        {% endif %}
-        </div>
+        <p>Location: {{ location | safe }}</p>
+      {% endif %}
       </div>
-    {% if featured_img %}
-      <div class="article-img">
-        <img src="{{ featured_img }}?nf_resize=smartcrop&w=800&h=400" alt="{{ title }}">
-      </div>
-    {% endif %}
-      <div class="article-desc">
-        {{ content | safe }}
-      </div>
+    </div>
+  {% if featured_img %}
+    <div class="article-img">
+      <img src="{{ featured_img }}?nf_resize=smartcrop&w=800&h=400" alt="{{ title }}">
+    </div>
+  {% endif %}
+    <div class="article-desc">
+      {{ content | safe }}
     </div>
   </article>
 

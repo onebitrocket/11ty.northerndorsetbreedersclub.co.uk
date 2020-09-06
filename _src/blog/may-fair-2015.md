@@ -1,7 +1,6 @@
 ---
 title: "May Fair 2015"
 date: 2015-05-14 14:31:46
-modified: 2015-05-14 14:31:46
 permalink: blog/may-fair-2015/
 tags: ["Alec Steff", "Bamburgh", "Bennachie", "Edwin Pocock", "Hall Lane", "Karen Hodgson", "May Fair", "NDBC", "Poll Dorset", "Sam Driver", "Sandy Lane"]
 featured_img: /uploads/IMG_1114.jpg

@@ -1,9 +1,8 @@
 ---
 title: "Otley Show Results 2017"
 date: 2017-05-27 16:34:36
-modified: 2017-05-27 16:34:36
 permalink: blog/otley-show-results-2017/
-tags: ["Alec Steff", "C Gardiner", "JE &amp; SM Gray", "Otley Show", "R Fitton", "Results", "Sam Driver", "Wharfedale Cup"]
+tags: ["Alec Steff", "C Gardiner", "JE & SM Gray", "Otley Show", "R Fitton", "Results", "Sam Driver", "Wharfedale Cup"]
 featured_img: /uploads/IMG_1908.jpg
 ---
 
@@ -21,7 +20,7 @@ Alec Steff
 
 **RAM LAMB**
 1st Sam Driver
-2nd S M &amp; J E Gray
+2nd S M & J E Gray
 3rd Mrs C Gardiner
 
 **RAM Shearling or over**
@@ -30,8 +29,8 @@ Alec Steff
 3rd A Steff
 
 **Gimmer Lamb**
-1st S M &amp; J E Gray
-2nd S M &amp; J E Gray
+1st S M & J E Gray
+2nd S M & J E Gray
 3rd Sam Driver
 4th Alec Steff
 

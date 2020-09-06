@@ -1,7 +1,6 @@
 ---
 title: "Chelford Show and Sale Report 2015"
 date: 2015-08-13 20:23:21
-modified: 2015-08-13 20:23:21
 permalink: blog/chelford-show-and-sale-2015/
 tags: ["Bamburgh", "Bennachie", "Edwin Pocock", "James Royan", "NDBC", "Poll Dorset", "Results", "Sam Driver", "Sandy Lane", "Show", "Wright Marshall"]
 featured_img: /uploads/E-Champion-Dorset-07.jpg

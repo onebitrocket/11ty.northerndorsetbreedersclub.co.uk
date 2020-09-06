@@ -1,15 +1,12 @@
 ---
-title: "Club Documents"
+title: Club Documents
 date: 2013-07-08 19:41:52
-modified: 2015-06-22 20:28:53
-layout: "layouts/base"
+layout: "layouts/page"
 ---
-
-# Club Documents
 
 ## Membership forms
 
-- [Membership application form \[PDF\]](/uploads/membership-application.pdf)
+[Membership application form](/uploads/membership-application.pdf)
 
 ## Chelford Show and Sale 2015 Documents
 

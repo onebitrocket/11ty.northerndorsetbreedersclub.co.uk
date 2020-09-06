@@ -1,7 +1,6 @@
 ---
 title: "Gisburn Show and Sale 2019"
 date: 2019-06-24 11:42:24
-modified: 2019-06-24 11:42:25
 permalink: blog/gisburn-show-and-sale-2019/
 tags: ["Gisburn", "Sale", "Show"]
 featured_img: /uploads/45B6CF04-9010-4F65-AF3E-AE25920DE7AA.jpeg

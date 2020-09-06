@@ -1,7 +1,6 @@
 ---
 title: "NDBC Chairman's Christmas Newsletter"
 date: 2014-12-31 12:20:43
-modified: 2014-12-31 12:20:43
 permalink: blog/ndbc-chairmans-christmas-newsletter/
 tags: ["AGM", "Edwin Pocock", "Karen Hodgson", "NDBC", "Poll Dorset", "Sam Driver", "Sandy Lane"]
 featured_img: /uploads/1461328_397165330443232_2951838273920358503_n.jpg

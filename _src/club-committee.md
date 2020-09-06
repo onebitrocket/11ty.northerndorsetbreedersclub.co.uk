@@ -1,16 +1,13 @@
 ---
-title: ""
-layout: "layouts/base"
+title: Club committee
+layout: "layouts/page"
 date: 2017-12-12 22:05:47
-modified: 2020-06-12 12:14:28
 tags:
   - primaryNav
 eleventyNavigation:
-  key: "Club Committee"
+  key: Club Committee
   order: 3
 ---
-
-# Club Committee
 
 **Chairman**
 

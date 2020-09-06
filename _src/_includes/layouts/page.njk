@@ -1,0 +1,18 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+
+  <div class="section-title">
+    <h1>{{ title }}</h1>
+  </div>
+
+  <div class="section-desc">
+      {{ content | safe }}
+  </div>
+
+  {% if pagination| length > 1  %}
+    <div class="section-footer">
+      {% include "partials/pagination_listing.njk" %}
+    </div>
+  {% endif %}
+{% endblock %}

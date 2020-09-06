@@ -1,7 +1,6 @@
 ---
 title: "Gisburn Show & Sale 2017"
 date: 2017-08-15 20:26:46
-modified: 2017-08-15 20:28:54
 permalink: blog/gisburn-show-sale-2017/
 tags: ["Alec Steff", "Gisburn", "Mr S Alderson", "Paddock Leach", "Sam Driver", "Sandy Lane", "Show", "Thornbank"]
 featured_img: /uploads/IMG_1428.jpg

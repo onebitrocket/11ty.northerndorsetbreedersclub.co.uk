@@ -8,5 +8,88 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+  <script>
+    CMS.registerPreviewStyle("https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback");
+    CMS.registerPreviewStyle("/css/styles.css");
+
+    var pagePreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        return h('div', {"className": "wrapper"},
+          h('div', {"className": "content container"},
+            h('div', {"className": "main"},
+              h('div', {"className": "section"},
+                h('div', {"className": "article"},
+                  h('div', {"className": "article-title"},
+                    h('h1', {}, entry.getIn(['data', 'title'])),
+                  ),
+                  h('div', {"className": "article-desc"},
+                    h('div', {"className": "text"}, this.props.widgetFor('body'))
+                  ),
+                )
+              )
+            )
+          )
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("pages", pagePreview);
+
+    var blogPostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        return h('div', {"className": "wrapper"},
+          h('div', {"className": "content container"},
+            h('div', {"className": "main"},
+              h('div', {"className": "section"},
+                h('div', {"className": "article"},
+                  h('div', {"className": "article-title"},
+                    h('h1', {}, entry.getIn(['data', 'title'])),
+                    h('div', {"className": "article-meta"},
+                      h('p', {},
+                        h('span', {}, 'Published on: '),
+                        h('span', {"className": "time"}, this.props.widgetFor('date'))
+                      ),
+                    ),
+                  ),
+                  h('div', {"className": "article-desc"},
+                    h('div', {"className": "text"}, this.props.widgetFor('body'))
+                  ),
+                )
+              )
+            )
+          )
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("blogposts", blogPostPreview);
+
+    CMS.registerEditorComponent({
+      id: "file",
+      label: "File",
+      fields: [
+        {name: 'title', label: 'title', widget: 'string'},
+        {name: 'file', label: 'file', widget: 'file'}
+      ],
+      pattern: /^\[(.*)\]\((.*(pdf|docx?))\)$/,
+      fromBlock: function(match) {
+        return {
+          title: match[1],
+          file: match[2]
+        };
+      },
+      toBlock: function(obj) {
+        return '['  + obj.title + '](' + obj.file + ')'
+      },
+      toPreview: function(obj) {
+        return (
+          '<p><a href="' + obj.file + '">' + obj.title +'</a></p>'
+        );
+      }
+    });
+  </script>
 </body>
 </html>

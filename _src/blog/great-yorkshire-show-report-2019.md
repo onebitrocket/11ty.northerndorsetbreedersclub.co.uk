@@ -1,7 +1,6 @@
 ---
 title: "Great Yorkshire Show Report 2019"
 date: 2019-07-17 18:47:17
-modified: 2019-07-17 18:47:18
 permalink: blog/great-yorkshire-show-report-2019/
 tags: ["Great Yorkshire Show", "NDBC", "Poll Dorset", "Report", "Show"]
 featured_img: /uploads/GYS-champion-19.jpg
@@ -13,7 +12,7 @@ Tuesday 9<sup>th</sup> July saw the judging of the Dorset Horn and Poll Dorset c
 
  First class up was the aged and shearling ram class. Standing top of the line was the much-admired shearling Horn ram, Staverton Arnie, exhibited by Richard Fitton. Sired by Sandy Lane Wolf and purchased at this year’s May Fair where he was crowned Best Horn Exhibit, Arnie is now one of the stock rams at Mr Fitton’s Dynamite flock based in Bolton. The 2<sup>nd</sup> prize ram in this class was Richhill Zinfandel, sired by Ballytaggart Trojan, exhibited by Mr Alec Steff Waggoners flock. Coming in 3<sup>rd</sup> in this strong class of rams was another Richhill ram, this time Richhill Xuberant, presented by Mr Fitton, a ram that had an impressive show career in Northern Ireland as a lamb.
 
- Mr Carson then proceeded to judge the ram class with Messrs B &amp; G Beck taking first with a very smart Ballytaggart ram lamb purchased at May Fair. Second was Mr Fitton with Mr Ben Welsh, Roundshaw flock taking 3<sup>rd</sup> with a January born homebred lamb. Mr Welsh’s ram lamb later went on to be Northern Dorset Breeders Club Male Champion. A class open to homebred sheep exhibited by NDBC members.
+ Mr Carson then proceeded to judge the ram class with Messrs B & G Beck taking first with a very smart Ballytaggart ram lamb purchased at May Fair. Second was Mr Fitton with Mr Ben Welsh, Roundshaw flock taking 3<sup>rd</sup> with a January born homebred lamb. Mr Welsh’s ram lamb later went on to be Northern Dorset Breeders Club Male Champion. A class open to homebred sheep exhibited by NDBC members.
 
  The female classes followed with one of the biggest turnouts to date with first prize in both the aged ewe and shearling ewe classes going to Richard Fitton. The ewe lamb class was topped by a very correct and stylish January born ewe lamb from Mr Welsh who was attending the show with Poll Dorsets for the first time. She was sired by Roundshaw stock ram, Downkillybegs Watson. This ewe lamb later went on to be Female Champion and Reserve Overall in the open classes. In addition to this the ewe lamb also took Female and Overall Champion in the Northern Dorset Breeders Club classes. In a very big group of three class, Odgers and Braithwaite, Quarrydale flock, claimed the top spot with their horn group, which included their show ewe ‘Becky’ who the family have had great success with over the last couple of years.
 

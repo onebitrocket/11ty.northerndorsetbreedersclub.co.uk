@@ -1,7 +1,6 @@
 ---
 title: "Summer Events 2017"
 date: 2017-02-25 12:59:26
-modified: 2017-02-25 12:59:26
 permalink: blog/summer-events-2017/
 tags: ["AGM", "Bennachie", "Event", "Gisburn", "James Royan", "NDBC"]
 featured_img: /uploads/IMG_0037.gif
@@ -26,7 +25,7 @@ After the success of previous years N.I trips, this year we are heading south an
 
 **NDBC AGM**
 
-***Date – 12th &amp; 13th August***
+***Date – 12th & 13th August***
 
 Following the NDBC sale at Gisburn we will be holding our AGM, this will be held at the Rendezvous Hotel in Skipton. Michael and Carol Crawshaw have kindly offered to house trailers overnight with any stock on board at their farm in Trawden. We are currently holding 14 rooms at the hotel at a rate of £65 per person dinner, bed and breakfast, there is a £25 supplement for a single room, if anyone wishes to just come to dinner the set menu will be £20 per head. We need to confirm numbers by the end of March, after that all rooms not booked will go back on general sale. A deposit of £20 per room is needed by the 15th of March please to secure your room.
 

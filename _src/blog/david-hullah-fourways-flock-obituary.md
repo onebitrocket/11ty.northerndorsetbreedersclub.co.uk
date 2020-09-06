@@ -1,7 +1,6 @@
 ---
 title: "David Hullah - Fourways Flock - Obituary"
 date: 2015-06-24 11:50:29
-modified: 2015-06-24 11:50:29
 permalink: blog/david-hullah-fourways-flock-obituary/
 tags: ["D Hullah", "Edwin Pocock", "Fourways", "Great Yorkshire Show", "NDBC", "Nidderdale", "Otley Show", "Wharfedale Cup"]
 featured_img: /uploads/fourwaysdorset-nogreen-large.jpg

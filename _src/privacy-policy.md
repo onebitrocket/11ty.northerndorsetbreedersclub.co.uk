@@ -1,11 +1,9 @@
 ---
 title: "Privacy Policy"
-layout: "layouts/base"
+layout: "layouts/page"
 date: 2014-04-09 21:21:21
 modified: 2014-04-28 21:20:32
 ---
-
-# Privacy Policy
 
 This Privacy Policy governs the manner in which Northern Dorset Breeders Club collects, uses, maintains and discloses information collected from users (each, a “User”) of the [website](/) (“Site”). This privacy policy applies to the Site and all products and services offered by Northern Dorset Breeders Club.
 

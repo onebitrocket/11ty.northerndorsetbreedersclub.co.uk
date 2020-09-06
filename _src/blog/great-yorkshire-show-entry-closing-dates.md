@@ -1,7 +1,6 @@
 ---
 title: "Great Yorkshire show entry closing dates"
 date: 2014-05-10 10:25:03
-modified: 2014-05-26 19:58:31
 permalink: blog/great-yorkshire-show-entry-closing-dates/
 tags: ["Event", "Great Yorkshire Show"]
 featured_img: /uploads/20140510-112654.jpg

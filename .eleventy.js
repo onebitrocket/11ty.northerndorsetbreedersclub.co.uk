@@ -25,12 +25,7 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("**/blog/*.md").filter(livePosts);
   });
 
-
-  // eleventyConfig.addCollection("eventposts", function(collectionApi) {
-    //   return collectionApi.getFilteredByGlob("**/events/*.md");
-    // });
-
-    const liveEvents = e => e.data.startDate >= now;
+  const liveEvents = e => e.data.startDate >= now;
 
   eleventyConfig.addCollection("eventposts", collection => {
     const events = collection.getFilteredByGlob("**/events/*.md")

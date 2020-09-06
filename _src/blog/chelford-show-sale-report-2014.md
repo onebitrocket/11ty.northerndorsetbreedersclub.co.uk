@@ -1,7 +1,6 @@
 ---
 title: "Chelford Show and Sale Report 2014"
 date: 2014-08-10 13:58:47
-modified: 2014-08-10 13:58:47
 permalink: blog/chelford-show-sale-report-2014/
 tags: ["Alex Birch", "Bennachie", "Chelford", "Edwin Pocock", "Hall Lane", "James Royan", "NDBC", "Poll Dorset", "Report", "Results", "Sam Driver", "Sandy Lane", "Waggoners", "Wright Marshall"]
 featured_img: /uploads/IMG_0902.jpg
@@ -57,7 +56,7 @@ Sam Driver **Lot 327** 240gns (x2)
 
 **Shearling Ram 1<sup>st</sup>**Edwin Pocock **2nd** Sam Driver **3<sup>rd</sup>**Alec Steff **4<sup>th</sup>**Alex Birch **5<sup>th</sup>**Edwin Pocock
 
-**Ram Lamb 1<sup>st</sup>**James Royan **2<sup>nd</sup>**Sam Driver **3<sup>rd</sup>**Mr &amp; Mrs D Beeby **4<sup>th</sup>**A D Johnson **5<sup>th</sup>**David Eglin
+**Ram Lamb 1<sup>st</sup>**James Royan **2<sup>nd</sup>**Sam Driver **3<sup>rd</sup>**Mr & Mrs D Beeby **4<sup>th</sup>**A D Johnson **5<sup>th</sup>**David Eglin
 
 **Shearling Ewe 1<sup>st</sup>**Edwin Pocock **2<sup>nd</sup>**Thornbank Farms **3<sup>rd</sup>**Sam Driver **4<sup>th</sup>**Edwin Pocock **5<sup>th</sup>** David Eglin
 
