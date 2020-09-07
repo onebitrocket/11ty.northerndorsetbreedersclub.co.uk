@@ -12,3 +12,11 @@ responsive nav js
 header logos
 
 contact form
+
+footer on desktop
+
+favicon
+
+add in missing events
+
+meta title and description + other seo settings
