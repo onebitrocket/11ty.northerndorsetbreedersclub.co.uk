@@ -363,6 +363,7 @@ a:hover {
       top: 0;
       right: 0;
       bottom: 0;
+      overflow: hidden;
       img {
         object-fit: cover;
         min-height: 40rem;
