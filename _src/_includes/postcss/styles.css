@@ -25,6 +25,7 @@
 *, *:before, *:after{
   box-sizing: border-box;
 }
+
 html {
   -webkit-font-smoothing: subpixel-antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -175,10 +176,14 @@ a:hover {
   li {
     display: block;
     border-top: 1px #e5e5e5 solid;
+    transition: background-color 0.3s ease 0.1s;
+
     a {
       display: block;
       padding: 1rem 5%;
       text-decoration: none;
+      transition: color 0.3s ease 0.1s;
+
       color: var(--font-color)
     }
 
@@ -222,7 +227,9 @@ a:hover {
 
 .container.banner {
   display: grid;
-  padding: 0;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  gap: 3rem;
 }
 
 .content {
@@ -253,8 +260,13 @@ a:hover {
     padding-right: 4rem;
   }
   .container.banner {
-    display: grid;
+    padding: 4rem 4rem 0 4rem;
+    gap: 0;
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+
+    .pod {
+      box-shadow: none;
+    }
 
   }
   .content {
@@ -377,6 +389,9 @@ a:hover {
     margin-top:0;
     border-top:none;
     position: relative;
+    box-shadow: 0 10px 0 -5px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+
     &-img {
       position: absolute;
       left: 0;
@@ -384,8 +399,13 @@ a:hover {
       right: 0;
       bottom: 0;
       overflow: hidden;
+
       img {
+        transform: translate3d(0,0,0);
+        transition: transform 0.3s ease 0.1s;
         object-fit: cover;
+        display: block;
+        margin: 0;
         min-height: 40rem;
       }
     }
@@ -403,8 +423,15 @@ a:hover {
       position: absolute;
       bottom: 0;
       width: 100%;
+      transition: background-color 0.3s ease 0.1s;
+
     }
     &:hover {
+      .pod-img {
+        img {
+          transform: translate3d(0,0,0) scale(1.1);
+        }
+      }
       .pod-body {
         background-color: rgba(9, 64, 113,0.75)
       }
