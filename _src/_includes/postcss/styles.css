@@ -406,7 +406,7 @@ a:hover {
         object-fit: cover;
         display: block;
         margin: 0;
-        min-height: 40rem;
+        width: 100%;
       }
     }
     &-title {
