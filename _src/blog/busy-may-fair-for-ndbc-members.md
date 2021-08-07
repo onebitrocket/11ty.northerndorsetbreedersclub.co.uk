@@ -6,7 +6,7 @@ tags: ["Bamburgh", "Bennachie", "Event", "Karen Hodgson", "Marren", "May Fair", 
 featured_img: /uploads/IMG_0039.jpg
 ---
 
-![](/uploads/IMG_0039.jpg)
+![IMG_0039](/uploads/IMG_0039.jpg)
 
 Tuesday 2nd May saw the Dorset Horn and Poll Dorset Sheep Breeders Association hold their annual May Fair at Exeter Market. As ever the event was well attended by Northern Club members.
 

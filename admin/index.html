@@ -67,6 +67,34 @@
 
     CMS.registerPreviewTemplate("blogposts", blogPostPreview);
 
+
+    var eventPostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        return h('div', {"className": "wrapper"},
+          h('div', {"className": "content container"},
+            h('div', {"className": "main"},
+              h('div', {"className": "article"},
+                h('div', {"className": "article-title"},
+                  h('h1', {}, entry.getIn(['data', 'title'])),
+                  h('div', {"className": "article-meta"},
+                    h('p', {},
+                      h('time', {"className": "time"}, entry.getIn(['data', 'startDate']))
+                    ),
+                  ),
+                ),
+                h('div', {"className": "article-desc"},
+                  h('div', {"className": "text"}, this.props.widgetFor('body'))
+                ),
+              )
+            )
+          )
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("eventposts", eventPostPreview);
+
     CMS.registerEditorComponent({
       id: "file",
       label: "File",

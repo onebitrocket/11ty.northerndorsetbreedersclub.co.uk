@@ -6,9 +6,9 @@ tags: ["Bamburgh", "Bennachie", "Edwin Pocock", "James Royan", "NDBC", "Poll Dor
 featured_img: /uploads/E-Champion-Dorset-07.jpg
 ---
 
-![Overall Champion from Bamburgh Flock](/uploads/E-Champion-Dorset-07.jpg)
+![E-Champion-Dorset-07](/uploads/E-Champion-Dorset-07.jpg)
 
-![Bamburgh Edmar, Reserve Champion Male](/uploads/E-Res-Champion-Dorset-02.jpg)
+![E-Res-Champion-Dorset-02](/uploads/E-Res-Champion-Dorset-02.jpg)
 
 The Northern Dorset Breeders Club held its 4<sup>th</sup> show and sale at Chelford Agricultural Centre on the 8<sup>th</sup> August 2015. Four strong classes of sheep were presented for Judge, Joe Larder, Somerset, to place in the pre-sale show. Taking the overall championship and top price female of the day at 340gns was a very smart ewe lamb from the Bamburgh flock of Christina Johnson. The reserve champion of the day was also from Christina. He was winner of the shearling ram class and champion male ticket, ‘Bamburgh Edmar’, sired by prolific stock ram ‘Huish Liam’ later selling for 300gns. Trade for females was fairly consistent throughout the day with stronger MV accredited sheep selling well. An ‘N’ reg poll ewe from Edwin Pocock’s Hall Lane Flock and a 4 tooth Dorset Horn ewe from Mr G Meaden, Shrewsbury were joint top price senior ewe at 300gns. The best pen of five females from Sam Driver’s Sandy Lane Flock sold to average 220gns, an average also matched by Christina Johnson, Bamburgh. As with 2014, rams were difficult to sell despite the good quality on offer. It was reported on the day that the Charolais and Texel breeds being sold through the market’s other rings were struggling to sell at all. This was felt may be due to the current low lamb price and buyer’s unwillingness to spend money they didn’t have so early in the year.
 
@@ -48,6 +48,6 @@ The club would like to thank Joe Larder for making a superb job of judging the s
 4. **E Pocock**
 5. **D Eglin**
 
-![Ewe lamb class line-up](/uploads/IMG_1620.jpg)
+![IMG_1620](/uploads/IMG_1620.jpg)
 
-![Ram Lamb class top 3](/uploads/IMG_1629.jpg)
+![IMG_1629](/uploads/IMG_1629.jpg)

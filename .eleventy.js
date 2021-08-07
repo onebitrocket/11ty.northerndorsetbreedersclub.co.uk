@@ -1,11 +1,11 @@
 const fs = require("fs");
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItLinkAttrs = require("markdown-it-link-attributes");
+const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 
 module.exports = function(eleventyConfig) {
 
@@ -54,15 +54,13 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
-
-
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_src/images");
-  eleventyConfig.addPassthroughCopy("_src/uploads");
+  eleventyConfig.addPassthroughCopy("_src/uploads/");
+  // eleventyConfig.addPassthroughCopy("_src/**/*.(pdf|doc|docx)");
   eleventyConfig.addPassthroughCopy("_src/js");
 
   /* Markdown Overrides */
@@ -70,8 +68,9 @@ module.exports = function(eleventyConfig) {
     html: true,
     breaks: true,
     linkify: true
-  }).use(markdownItAnchor, {
-  }).use(markdownItLinkAttrs, [{
+  })
+  .use(markdownItAnchor, {})
+  .use(markdownItLinkAttrs, [{
     pattern: /^https?:\/\//,
     attrs: {
       target: '_blank',
@@ -83,18 +82,18 @@ module.exports = function(eleventyConfig) {
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
-    // callbacks: {
-    //   ready: function(err, browserSync) {
-    //     const content_404 = fs.readFileSync('_site/404.html');
+    callbacks: {
+      ready: function(err, browserSync) {
+        const content_404 = fs.readFileSync('_site/404.html');
 
-    //     browserSync.addMiddleware("*", (req, res) => {
-    //       // Provides the 404 content without redirect.
-    //       res.writeHead(404);
-    //       res.write(content_404);
-    //       res.end();
-    //     });
-    //   }
-    // },
+        browserSync.addMiddleware("*", (req, res) => {
+          // Provides the 404 content without redirect.
+          res.writeHead(404);
+          res.write(content_404);
+          res.end();
+        });
+      }
+    },
     ui: false,
     ghostMode: false
   });

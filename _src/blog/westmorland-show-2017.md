@@ -6,7 +6,7 @@ tags: ["Poll Dorset", "Results", "Thornbank"]
 featured_img: /uploads/IMG_1578.jpg
 ---
 
-![](/uploads/IMG_1578.jpg)
+![IMG_1578](/uploads/IMG_1578.jpg)
 
 **Any Other Breed**
 

@@ -6,7 +6,7 @@ tags: ["Alex Birch", "Edwin Pocock", "NDBC", "Open Day", "Sam Driver", "Waggoner
 featured_img: /uploads/IMG_0826.jpg
 ---
 
-![](/uploads/IMG_0826.jpg)
+![IMG_0826](/uploads/IMG_0826.jpg)
 
 On the 19th July members of the Northern Dorset Breeders Club enjoyed a thoroughly informative open day at Alec Steff’s Waggoners Poll Dorset flock at Burnley, Lancashire. Members arrived at Higher Micklehurst Farm at 11am and were greeted with an excellent spread of cakes, scones, tea and coffees. Following this Alec did a short introduction detailing the rest of the day which was to include stock judging, a barbeque and a flock tour. Members were then asked to introduce themselves to the rest of the group.
 

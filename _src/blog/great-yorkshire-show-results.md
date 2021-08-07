@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Great Yorkshire Show", "Odgers & Braithwaite", "Poll Dorse
 featured_img: /uploads/IMG_8707.jpg
 ---
 
-![](/uploads/IMG_8707.jpg)
+![IMG_8707](/uploads/IMG_8707.jpg)
 
 **Breed Champion – Mrs K Hodgson (Ram Lamb)**
 
@@ -70,12 +70,12 @@ featured_img: /uploads/IMG_8707.jpg
 
 3rd Miss C Johnson
 
-![NDBC Champion Male and Female from Sam Driver](/uploads/IMG_8683.jpg)
+![IMG_8683](/uploads/IMG_8683.jpg)
 
 ![IMG_8666](/uploads/IMG_8666.jpg)J
 
-![Our judge for the day, Thomas Wright, Ballytaggart Flock.](/uploads/IMG_8674.jpg)
+![IMG_8674](/uploads/IMG_8674.jpg)
 
-![Helen Driver's shearling ewe, female champion and reserve overall](/uploads/IMG_8657-e1500500151609.jpg)
+![IMG_8657-e1500500151609](/uploads/IMG_8657-e1500500151609.jpg)
 
-![Former club chairman and society president Edwin Pocock and judging spectators](/uploads/IMG_8703.jpg)
+![IMG_8703](/uploads/IMG_8703.jpg)

@@ -6,4 +6,4 @@ tags: ["A Steff", "Champion", "Odgers & Braithwaite", "Otley Show", "S&J Gray"]
 featured_img: /uploads/2019-06-24-2.png
 ---
 
-![](/uploads/2019-06-24-2.png)
+![2019-06-24-2](/uploads/2019-06-24-2.png)

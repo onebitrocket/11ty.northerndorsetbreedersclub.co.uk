@@ -6,7 +6,7 @@ tags: ["Alec Steff", "C Gardiner", "JE & SM Gray", "Otley Show", "R Fitton", "Re
 featured_img: /uploads/IMG_1908.jpg
 ---
 
-![](/uploads/IMG_1908.jpg)
+![IMG_1908](/uploads/IMG_1908.jpg)
 
 **CHAMPION** – **Wharfedale Trophy**
 Sam Driver – Shearling Ram

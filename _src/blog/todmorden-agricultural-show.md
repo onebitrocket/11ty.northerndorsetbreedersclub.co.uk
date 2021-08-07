@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Poll Dorset", "Results", "Todmorden", "Waggoners"]
 featured_img: /uploads/tod-show.png
 ---
 
-![](/uploads/tod-show.png)
+![tod-show](/uploads/tod-show.png)
 
 ## Any other pure Native breed-(except Lonks and Primitive Breeds)
 

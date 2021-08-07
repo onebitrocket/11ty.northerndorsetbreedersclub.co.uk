@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Karen Hodgson", "Poll Dorset", "Thornbank"]
 featured_img: /uploads/IMG_1194.jpg
 ---
 
-![](/uploads/IMG_1194.jpg)
+![IMG_1194](/uploads/IMG_1194.jpg)
 
 **North Sheep 2015**
 

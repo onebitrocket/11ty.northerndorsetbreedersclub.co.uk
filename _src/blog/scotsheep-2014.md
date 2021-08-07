@@ -6,6 +6,6 @@ tags: []
 featured_img: /uploads/NSA.png
 ---
 
-![](/uploads/NSA.png)
+![NSA](/uploads/NSA.png)
 
 We would be grateful of any help members can give to man the society stand. Please contact [James Royan](mailto:j.royan@sky.com), with any offers as he is in charge of the stand.

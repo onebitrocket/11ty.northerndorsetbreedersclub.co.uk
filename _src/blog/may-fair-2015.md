@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Bamburgh", "Bennachie", "Edwin Pocock", "Hall Lane", "Kare
 featured_img: /uploads/IMG_1114.jpg
 ---
 
-![](/uploads/IMG_1114.jpg)
+![IMG_1114](/uploads/IMG_1114.jpg)
 
 This year saw a strong representation of NDBC members at this year’s society show and sale at Exeter Livestock Centre, showing, selling and judging. Several rams made the long journey down and a few select purchases came back up north.
 
@@ -14,7 +14,7 @@ The Bamburgh flock owned by Christina Johnson had a successful May Fair with ‘
 
 There were a few high profile purchases from NDBC members, the first of three Sherborne rams to head up north was ‘Sherborne Wayfarer W2730’ for 3000gns to Edwin Pocock. This ram was second highest price on the day, he has a Terminal Sire index of 401 and a Maternal index of 328. The next Sherborne ram went to Derbyshire to Sam Driver’s Sandy Lane Flock for 1,250gns. He was ‘Sherborne Undecided U2258’, a shearling ram saved specially for May Fair to celebrate the Hole’s 50th anniversary of Sherborne Dorsets. Sam also purchased Rossiz Warrior from Ross and Emma Sizmur for 1,250gns. From the Sizmur’s last ever pen of Dorset rams, ‘Warrior is a son of the 4,800gns ‘Hilltop Tarantino’. The final Sherborne purchase went to Northumberland with Christina Johnson purchasing ‘Sherborne Watermark W2857’ for 500gns.
 
-![Alec Steff judging Best Pair of Shearlings](/uploads/IMG_1135.jpg)
+![IMG_1135](/uploads/IMG_1135.jpg)
 
 Club Chairman Alec Steff was tasked with judging Class 9, Best Pair of Shearling Rams. After much deliberation, Alec awarded first place to Dorset Society President Andrew Kingdon, Polgreen. Alec made the most of his journey down by purchasing a new bloodline ‘Ballytaggart Walter W01198’ a grandson of the famous ‘Oliver Tree Nik Nak’ for his Waggoners Flock.
 
@@ -22,4 +22,4 @@ May the 6th also saw the dispersal of the two time champion Rossiz Flock. There 
 
 We hope that NDBC members will continue to make the journey to Exeter representing the club by exhibiting and purchasing quality stock.
 
-![Sam Driver selling Sandy Lane Usher U1805](/uploads/IMG_1150.jpg)
+![IMG_1150](/uploads/IMG_1150.jpg)

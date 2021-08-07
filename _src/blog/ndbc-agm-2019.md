@@ -6,7 +6,7 @@ tags: []
 featured_img: /uploads/2019-07-27-2.png
 ---
 
-![](/uploads/2019-07-27-2.png)
+![2019-07-27-2](/uploads/2019-07-27-2.png)
 
 DATE FOR YOUR DIARY! The Fitton Family would like to invite you to…
 The [Northern Dorset Breeders Club](https://www.facebook.com/northerndorsetbreeders/?__tn__=K-R&eid=ARD3abPIokGUM5McuGBpkric3zYUpXcXpPgsmy4ynCcTVyYzhAlPZ0WbJh7zJLOfAMPng2EXUGJCgKom&fref=mentions&__xts__%5B0%5D=68.ARC6aMVzCCIgWo4_PM0fWsVzXaWdu9TACZ0qMfThTJXPjP9lvLZjspL-3IKfWyKCcGn7i7opkkV4mFgjVWxwV9fpwZ6f_JUXTdTfgstLHgrrNrQEnZ3OdibIHuLWOMlvwIkAby-XgHJEf6RlHXyB4gbRYRynki_5K3qjsxpUATct6Yd8qXQ4Ih7sXpRgUn8DTkY-CC18NOoascxUEQ) AGM & ‘Dynamite Dorsets’ Flock visit .

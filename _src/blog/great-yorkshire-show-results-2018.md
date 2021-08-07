@@ -6,4 +6,4 @@ tags: ["Great Yorkshire Show", "Results", "Show"]
 featured_img: /uploads/IMG_5137.jpg
 ---
 
-![](/uploads/IMG_5137.jpg)
+![IMG_5137](/uploads/IMG_5137.jpg)

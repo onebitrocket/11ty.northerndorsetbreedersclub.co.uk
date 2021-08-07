@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Great Harwood Show", "NDBC", "Poll Dorset", "Waggoners"]
 featured_img: /uploads/IMG_0826.jpg
 ---
 
-![](/uploads/IMG_0826.jpg)
+![IMG_0826](/uploads/IMG_0826.jpg)
 
 ## Any Other Breed
 

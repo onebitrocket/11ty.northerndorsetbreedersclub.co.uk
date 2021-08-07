@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Results", "Todmorden"]
 featured_img: /uploads/tod-show.png
 ---
 
-![](/uploads/tod-show.png)
+![tod-show](/uploads/tod-show.png)
 
 Any Other Native
 

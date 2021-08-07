@@ -6,7 +6,7 @@ tags: ["Alex Birch", "Bennachie", "Chelford", "Edwin Pocock", "Hall Lane", "Jame
 featured_img: /uploads/IMG_0902.jpg
 ---
 
-![](/uploads/IMG_0902.jpg)
+![IMG_0902](/uploads/IMG_0902.jpg)
 
 The second to last lot of the day at this year’s Northern Dorset Breeders Club Show and Sale at Chelford Agricultural Centre took the top price with Alex Birch’s Horn Ram ‘High Rakes Tubby T153’ sired by Richill Saracen selling for 590gns. Being the only Dorset Horn entry on the day, he attracted considerable interest. Two females shared the top price of 320gns. Firstly Edwin Pocock’s smart shearling ewe and Female Champion ‘Hall Lane T101’, sired by ‘Hall Lane Lancelot’ who had been running with the ram. Secondly, James Royan’s ewe lamb ‘Bennachie Una U2’ by ‘Sherborne Prince Regent’. This ewe lamb was second in the ewe lamb class earlier in the day. Sam Driver’s shearling ewe, ‘Sandy Lane T1071’ a ‘Ballytaggart Pele’ daughter scanned in lamb with a single was next in the top prices at 310gns. She sold to NDBC member David Hullah for his Fourways Flock.
 

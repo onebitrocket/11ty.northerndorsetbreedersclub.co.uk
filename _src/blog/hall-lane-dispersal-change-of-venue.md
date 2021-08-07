@@ -8,4 +8,4 @@ featured_img: /uploads/Sedgemoor-Dispersal.jpg
 
 **PLEASE NOTE, DUE TO UNFORESEEN CIRCUMSTANCES THE VENUE IS NOW SEDGEMOOR AUCTION MART, NOT EXETER AS PREVIOUSLY ADVERTISED.**
 
-![Sedgemoor Dispersal](/uploads/Sedgemoor-Dispersal.jpg)
+![Sedgemoor-Dispersal](/uploads/Sedgemoor-Dispersal.jpg)

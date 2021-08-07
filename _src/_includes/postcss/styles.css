@@ -137,7 +137,7 @@ a:hover {
 }
 
 .wrapper {
-  max-width: 1280px;
+  max-width: 128rem;
   margin: 0 auto;
   background-color: #ffffff;
   box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3)
@@ -148,8 +148,8 @@ a:hover {
 }
 
 .header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 .header-title {
   font-size: var(--font-size-large);
@@ -171,7 +171,7 @@ a:hover {
 .primary-nav {
   padding:0;
   background-color: #f2f2f2;
-  border-bottom: 2px var(--primary-color) solid;
+  border-bottom: 5px var(--primary-color) solid;
   li {
     display: block;
     border-top: 1px #e5e5e5 solid;
@@ -221,24 +221,25 @@ a:hover {
 }
 
 .container.banner {
+  display: grid;
   padding: 0;
 }
 
 .content {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #e6e6e6;
   font-size: var(--font-size-small);
   text-align: center;
   &-contact-area {
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     li {
-      margin-bottom: 1opx;
+      margin-bottom: 1rem;
     }
   }
 }
@@ -248,8 +249,8 @@ a:hover {
 
 @media screen and (min-width: 1024px){
   .container {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 4rem;
+    padding-right: 4rem;
   }
   .container.banner {
     display: grid;
@@ -260,8 +261,8 @@ a:hover {
     grid-template-areas: "main sidebar";
     grid-template-columns: 3fr 1fr;
 
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
   .primary-nav ul {
     display: block;
@@ -269,10 +270,22 @@ a:hover {
       display: inline-block;
       border-top: none;
       a {
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding: 1rem 2rem;
         white-space: nowrap;
-        display: block;
+      }
+    }
+  }
+  .footer {
+    text-align: left;
+    ul {
+      margin-bottom: 1rem;
+    }
+    li {
+      font-size: var(--font-size-normal);
+      display: inline;
+      margin-left: 2rem;
+      &:first-child {
+        margin-left: 0;
       }
     }
   }
@@ -280,7 +293,7 @@ a:hover {
 
 /* article */
 .article {
-  border-top: 1px #e5e5e5 solid;
+  border-top: 0.1rem #e5e5e5 solid;
   margin-top: 2rem;
   padding-top: 2rem;
   &:first-of-type {
@@ -301,6 +314,13 @@ a:hover {
       }
       &-body {
         overflow: hidden;
+      }
+    }
+  }
+  &-title {
+    h2 {
+      a {
+        text-decoration: none;
       }
     }
   }

@@ -6,7 +6,7 @@ tags: ["Alec Steff", "D Hullah", "Edwin Pocock", "JE & SM Gray", "Otley Show", "
 featured_img: /uploads/IMG_1178.jpg
 ---
 
-![](/uploads/IMG_1178.jpg)
+![IMG_1178](/uploads/IMG_1178.jpg)
 
 ## Champion (Winner of the Wharfedale Cup) – A Steff (Shearling Ram or Over)
 
@@ -36,10 +36,10 @@ featured_img: /uploads/IMG_1178.jpg
 2. JE & SM Gray
 3. D Hullah
 
-![Alec Steff's 1st Prize Shearling Ewe](/uploads/IMG_1158.jpg)
+![IMG_1158](/uploads/IMG_1158.jpg)
 
-![Waggoners Rams](/uploads/IMG_1157.jpg)
+![IMG_1157](/uploads/IMG_1157.jpg)
 
-![David Hullah's 2015 born 1st Prize Ewe Lamb and Reserve Champion](/uploads/IMG_1172.jpg)
+![IMG_1172](/uploads/IMG_1172.jpg)
 
-![David Hullah's 1st Prize Ewe Lamb](/uploads/IMG_1159.jpg)
+![IMG_1159](/uploads/IMG_1159.jpg)

@@ -6,4 +6,4 @@ tags: ["Results", "Show"]
 featured_img: /uploads/2019-07-06-3.png
 ---
 
-![](/uploads/2019-07-06-3.png)
+![2019-07-06-3](/uploads/2019-07-06-3.png)

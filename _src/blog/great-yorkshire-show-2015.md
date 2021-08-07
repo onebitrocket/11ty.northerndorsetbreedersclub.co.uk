@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Edwin Pocock", "Great Yorkshire Show", "James Royan", "Kar
 featured_img: /uploads/20140510-112654.jpg
 ---
 
-![](/uploads/20140510-112654.jpg)
+![20140510-112654](/uploads/20140510-112654.jpg)
 
 **<u>Great Yorkshire Show Results</u>**
 
@@ -36,10 +36,10 @@ featured_img: /uploads/20140510-112654.jpg
 4. **Mr E Pocock**
 5. **Mrs K Hodgson**
 
-![James Royan's Group of Three](/uploads/IMG_1538.jpg)
+![IMG_1538](/uploads/IMG_1538.jpg)
 
 ![Group of Three Line-up](/uploads/IMG_1534.jpg)]
 
-![Ram Lamb Class](/uploads/IMG_1525.jpg)
+![IMG_1525](/uploads/IMG_1525.jpg)
 
-![James Royan's NDBC Champion](/uploads/IMG_1543.jpg)
+![IMG_1543](/uploads/IMG_1543.jpg)

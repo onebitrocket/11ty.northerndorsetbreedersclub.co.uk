@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }}{% if pagination.pageNumber > 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %} | {{ config.title }}</title>
-  <meta name="description" content="{{ desc or config.desc }}">
+  <title>{{ meta.title or title }}{% if pagination.pageNumber > 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %} | {{ config.title }}</title>
+  <meta name="description" content="{{ meta.desc or desc or config.desc }}">
   <link rel="stylesheet" href="/css/styles.css">
   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback' type='text/css' media='all' />
 </head>

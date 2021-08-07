@@ -8,7 +8,7 @@ tags:
 featured_img: /uploads/bamburgh-2.jpg
 ---
 
-![](/uploads/bamburgh-2.jpg)
+![bamburgh-2](/uploads/bamburgh-2.jpg)
 
 Congratulations to the Bamburgh flock owned by the Johnson family, for winning Champion Any Other Breed with Poll Dorset Shearling Ram ‘Bamburgh Drosboi’ at the Border Union Show, Kelso.
 
@@ -20,4 +20,4 @@ Congratulations to the Bamburgh flock owned by the Johnson family, for winning C
 
 **3rd** Robert Whittaker (Charolais)
 
-![bamburgh 1](/uploads/bamburgh-1.jpg)
+![bamburgh-1](/uploads/bamburgh-1.jpg)

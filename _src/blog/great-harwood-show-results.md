@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Great Harwood Show", "Odgers & Braithwaite", "Results"]
 featured_img: /uploads/Prize-ticket.jpg
 ---
 
-![](/uploads/Prize-ticket.jpg)
+![Prize-ticket](/uploads/Prize-ticket.jpg)
 
 **Any Other Breed.**
 

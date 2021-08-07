@@ -1,8 +1,9 @@
 ---
 title: "Blog"
-desc: ""
+desc: "The latest updates from the club"
 permalink: "/blog/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
 layout: "layouts/page"
+featured_img: "/uploads/059.jpg"
 pagination:
   data: collections.blogposts
   size: 8
@@ -10,6 +11,7 @@ pagination:
   reverse: true
 tags:
   - primaryNav
+  - homeBanner
 eleventyNavigation:
   key: "Blog"
   order: 6
@@ -22,17 +24,19 @@ eleventyNavigation:
         <img src="{{ item.data.featured_img }}?nf_resize=smartcrop&w=100&h=100" alt="{{ item.data.title }}">
       </div>
     {% endif %}
-    <div class="article-title">
-      <h2>{{ item.data.title }}</h2>
-      <div class="article-meta">
-        <p>Published on {{ item.data.date | readableDate }}</p>
+    <div class="article-body">
+      <div class="article-title">
+        <h2><a href="{{ item.data.page.url }}">{{ item.data.title }}</a></h2>
+        <div class="article-meta">
+          <p>Published on {{ item.data.date | readableDate }}</p>
+        </div>
       </div>
-    </div>
-    {% if item.data.summary %}
-    <div class="article-desc"><p>{{ item.data.summary }}</p></div>
-      {% endif %}
-    <div class="article-footer">
-      <a href="{{ item.data.page.url }}">Read more &raquo;</a>
+      {% if item.data.summary %}
+      <div class="article-desc"><p>{{ item.data.summary }}</p></div>
+        {% endif %}
+      <div class="article-footer">
+        <a href="{{ item.data.page.url }}">Read more &raquo;</a>
+      </div>
     </div>
   </article>
 {% endfor %}

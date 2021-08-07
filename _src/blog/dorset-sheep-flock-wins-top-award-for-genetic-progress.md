@@ -6,7 +6,7 @@ tags: []
 featured_img: /uploads/059.jpg
 ---
 
-![](/uploads/059.jpg)
+![059](/uploads/059.jpg)
 
 The Dorset sheep winner of the EBLEX Improved Flock Awards for 2013 is the Hall Lane Flock, owned by Edwin and Jenny Pocock at Totley Hall Farm, near Sheffield, South Yorkshire.
 

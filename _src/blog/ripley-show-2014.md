@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Burley", "Ripley", "Show", "Thornbank"]
 featured_img: /uploads/IMG_0178.jpg
 ---
 
-![](/uploads/IMG_0178.jpg)
+![IMG_0178](/uploads/IMG_0178.jpg)
 
 **Judges Report – Mr Alec Steff (Waggoners)**
 

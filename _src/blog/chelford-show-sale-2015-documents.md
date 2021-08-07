@@ -6,7 +6,7 @@ tags: ["Chelford", "Edwin Pocock", "NDBC", "Poll Dorset", "Wright Marshall"]
 featured_img: /uploads/Wright-Marshall.png
 ---
 
-![](/uploads/Wright-Marshall.png)
+![Wright-Marshall](/uploads/Wright-Marshall.png)
 
 
 **<u>SHOW AND SALE CONDITIONS</u>**

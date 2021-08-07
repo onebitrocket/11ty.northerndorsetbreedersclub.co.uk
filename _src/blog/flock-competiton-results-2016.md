@@ -6,7 +6,7 @@ tags: ["Alec Steff", "Alex Birch", "Bamburgh", "Burley", "James Royan", "JE & SM
 featured_img: /uploads/IMG_0038.jpg
 ---
 
-![](/uploads/IMG_0038.jpg)
+![IMG_0038](/uploads/IMG_0038.jpg)
 
 NDBC Flock Competition Results.
 
